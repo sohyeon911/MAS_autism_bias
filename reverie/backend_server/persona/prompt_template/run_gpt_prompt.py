@@ -65,8 +65,8 @@ def run_gpt_prompt_wake_up_hour(persona, test_input=None, verbose=False):
   def get_fail_safe(): 
     fs = 8
     return fs
-
-  gpt_param = {"engine": "text-davinci-002", "max_tokens": 5, 
+  #replace "text-davinci-002" wiht "gpt-3.5-turbo-instruct"
+  gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 5, 
              "temperature": 0.8, "top_p": 1, "stream": False,
              "frequency_penalty": 0, "presence_penalty": 0, "stop": ["\n"]}
   prompt_template = "persona/prompt_template/v2/wake_up_hour_v1.txt"
