@@ -36,6 +36,31 @@ Replace `<Your OpenAI API>` with your OpenAI API key, and `<name>` with your nam
 ### Step 2. Install requirements.txt
 Install everything listed in the `requirements.txt` file (I strongly recommend first setting up a virtualenv as usual). A note on Python version: we tested our environment on Python 3.9.12. 
 
+#### Prerequisites and Installation
+In the following, I provide step-by-step instructions to set up this project.
+
+### Step 1. Clone the repository
+
+```bash
+git clone https://github.com/3eltran23/generative_agents-main.git
+cd generative_agents-main
+```
+
+### Step 2. Create and activate a virtual environment
+
+```bash
+# pip install virtualenv (if you don't have virtualevn installed)
+virtualenv venv
+source venv/bin/activate
+```
+
+### Step 3 Install project dependencies or libraries needed to run this project.
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## <img src="https://joonsungpark.s3.amazonaws.com:443/static/assets/characters/profile/Klaus_Mueller.png" alt="Generative Klaus">   Running a Simulation 
 To run a new simulation, you will need to concurrently start two servers: the environment server and the agent simulation server.
 
