@@ -370,6 +370,9 @@ class ReverieServer:
           # This is where the core brains of the personas are invoked. 
           movements = {"persona": dict(), 
                        "meta": dict()}
+          
+          #[Change]
+          next_env = dict(new_env)
           for persona_name, persona in self.personas.items(): 
             # <next_tile> is a x,y coordinate. e.g., (58, 9)
             # <pronunciatio> is an emoji. e.g., "\ud83d\udca4"
@@ -385,7 +388,8 @@ class ReverieServer:
             movements["persona"][persona_name]["description"] = description
             movements["persona"][persona_name]["chat"] = (persona
                                                           .scratch.chat)
-
+            #[Change]
+            next_env[persona_name]["x"],next_env[persona_name]["y"] = next_tile
           # Include the meta information about the current stage in the 
           # movements dictionary. 
           movements["meta"]["curr_time"] = (self.curr_time 
@@ -407,6 +411,11 @@ class ReverieServer:
           self.curr_time += datetime.timedelta(seconds=self.sec_per_step)
 
           int_counter -= 1
+          #[Change]
+          curr_env_file = f"{sim_folder}/environment/{self.step}.json"
+          with open(curr_env_file, "w") as outfile: 
+            outfile.write(json.dumps(next_env, indent=2))
+
           
       # Sleep so we don't burn our machines. 
       time.sleep(self.server_sleep)
@@ -605,7 +614,9 @@ if __name__ == '__main__':
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
   rs = ReverieServer("base_the_ville_isabella_maria_klaus", 
-                     "March29_the_ville_isabella_maria_klaus-step-1-1")
+                     "April_the_ville_isabella_maria_klaus-step-1-1")
+  
+  #July1_the_ville_isabella_maria_klaus-step-3-1
   
   # origin = input("Enter the name of the forked simulation: ").strip()
   # target = input("Enter the name of the new simulation: ").strip()
