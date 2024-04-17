@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing Klaus's enjoyment of his meal and the preparations for the Valentine's Day party, with Isabella inviting Klaus to join the party and Klaus expressing excitement for the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, how are you enjoying your meal?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I'm enjoying my meal. How are things going with the Valentine's Day party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your meal! The Valentine's Day party preparations are going well. We have some fun surprises planned for tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds exciting! I can't wait to see what surprises you have planned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join us for the Valentine's Day party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invitation, Isabella. I would love to join the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to save you a spot. The party starts at 5pm tomorrow, so I hope to see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to the Valentine's Day party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that you're excited. We'll have some delicious treats and music, so it should be a fantastic evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really looking forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you'd like to see or do at the party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to see the surprises you have planned for the Valentine's Day party! I'm looking forward to a fun evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that! We have some great music lined up for the party as well. It's going to be a night to remember!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the invitation and look forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you'll be joining us, Klaus! It's always great to have you at our events."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really looking forward to the Valentine's Day party tomorrow."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner at Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing Klaus's enjoyment of his meal and the preparations for the Valentine's Day party, with Isabella inviting Klaus to join the party and Klaus expressing excitement for the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, how are you enjoying your meal?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I'm enjoying my meal. How are things going with the Valentine's Day party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your meal! The Valentine's Day party preparations are going well. We have some fun surprises planned for tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds exciting! I can't wait to see what surprises you have planned."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join us for the Valentine's Day party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invitation, Isabella. I would love to join the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to save you a spot. The party starts at 5pm tomorrow, so I hope to see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to the Valentine's Day party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that you're excited. We'll have some delicious treats and music, so it should be a fantastic evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really looking forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you'd like to see or do at the party tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to see the surprises you have planned for the Valentine's Day party! I'm looking forward to a fun evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that! We have some great music lined up for the party as well. It's going to be a night to remember!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the invitation and look forward to the Valentine's Day party tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you'll be joining us, Klaus! It's always great to have you at our events."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really looking forward to the Valentine's Day party tomorrow."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:01:20"
+  }
+}
