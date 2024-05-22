@@ -613,8 +613,8 @@ if __name__ == '__main__':
   # rs = ReverieServer("July1_the_ville_isabella_maria_klaus-step-3-20", 
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
-  rs = ReverieServer("base_the_ville_isabella_maria_klaus", 
-                     "April_the_ville_isabella_maria_klaus-step-1830-3000")
+  rs = ReverieServer("base_the_ville_isabella_maria_klaus_new", 
+                     "May_the_ville_isabella_maria_klaus-step-3000")
   
   #July1_the_ville_isabella_maria_klaus-step-3-1
   
