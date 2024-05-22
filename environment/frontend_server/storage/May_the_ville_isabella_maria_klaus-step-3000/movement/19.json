@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "working at the counter @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing park activities and finalizing plans for a friends night out between Maria Lopez and Klaus Mueller. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going with organizing the park activities?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. We've got a fun lineup of activities planned for today."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds exciting! Do you need any help with anything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for offering, Maria, but I think we've got everything under control for today. I'll definitely let you know if we need any help in the future."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Let me know if there's anything I can assist with in the future."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. Actually, I wanted to discuss the plans for the friends night out with Isabella and you. Can we chat about it later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus. Let's meet after I close the store at 7:00 pm to discuss the plans for the friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll see you at 7:00 pm after you close the store. Let's finalize the plans for the friends night out then."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 7:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, looking forward to finalizing the plans with you later. See you at 7:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Have a good rest of your day, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to finalizing the plans with you later. See you at 7:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to finalizing the plans with you later. Have a good rest of your day, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, thanks Maria! Have a great day!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to finalizing the plans with you later. Have a good rest of your day, Klaus."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing park activities and finalizing plans for a friends night out between Maria Lopez and Klaus Mueller. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going with organizing the park activities?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. We've got a fun lineup of activities planned for today."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds exciting! Do you need any help with anything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for offering, Maria, but I think we've got everything under control for today. I'll definitely let you know if we need any help in the future."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! Let me know if there's anything I can assist with in the future."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. Actually, I wanted to discuss the plans for the friends night out with Isabella and you. Can we chat about it later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus. Let's meet after I close the store at 7:00 pm to discuss the plans for the friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll see you at 7:00 pm after you close the store. Let's finalize the plans for the friends night out then."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 7:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, looking forward to finalizing the plans with you later. See you at 7:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Have a good rest of your day, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to finalizing the plans with you later. See you at 7:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to finalizing the plans with you later. Have a good rest of your day, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, thanks Maria! Have a great day!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to finalizing the plans with you later. Have a good rest of your day, Klaus."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:33:10"
+  }
+}
