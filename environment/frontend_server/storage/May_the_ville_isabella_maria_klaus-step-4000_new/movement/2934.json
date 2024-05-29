@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "working at the counter at Hobbs Cafe (making coffee and other drinks) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        90,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcc5",
+      "description": "working on creating the itinerary for the friend's night out with Isabella and Klaus @ the Ville:The Rose and Crown Pub:pub:microphone",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        34,
+        50
+      ],
+      "pronunciatio": "\u26bd",
+      "description": "overseeing the kickball game (setting up the kickball field) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:09:00"
+  }
+}

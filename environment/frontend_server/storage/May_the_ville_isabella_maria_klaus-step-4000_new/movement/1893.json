@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        58,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are discussing organizing the cafe counter setup, adding fresh flowers, checking inventory for an evening event, and planning the evening with Maria. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been busy but good. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day is going well too, just taking a quick break before getting back to work. Do you need anything else from me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was actually thinking about the details you mentioned earlier regarding how you like the cafe counter organized. I think we can implement those changes today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I really appreciate your help with that. Let's make sure everything is set up as we discussed."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll start working on the cafe counter setup right away. Thank you for your input, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to assist you with anything while you work on the cafe counter setup?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, it would be great if you could assist me with arranging the supplies on the counter."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Klaus! I'll help you arrange the supplies on the counter right now."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, do you think we should also add some fresh flowers to brighten up the cafe counter?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Klaus! Fresh flowers would definitely add a nice touch to the cafe counter."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, let's also make sure we have all the necessary inventory for the evening event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I will double-check the inventory right after we finish setting up the cafe counter and adding the fresh flowers. Thank you for reminding me, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, while we are here, let's also discuss the evening's plans with Maria. I want to make sure everything is organized and ready for our friends night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Klaus! Let's go talk to Maria about the evening's plans."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, let's go meet Maria now to discuss the evening's plans."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        64,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are discussing organizing the cafe counter setup, adding fresh flowers, checking inventory for an evening event, and planning the evening with Maria. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been busy but good. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day is going well too, just taking a quick break before getting back to work. Do you need anything else from me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was actually thinking about the details you mentioned earlier regarding how you like the cafe counter organized. I think we can implement those changes today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I really appreciate your help with that. Let's make sure everything is set up as we discussed."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll start working on the cafe counter setup right away. Thank you for your input, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to assist you with anything while you work on the cafe counter setup?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, it would be great if you could assist me with arranging the supplies on the counter."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Klaus! I'll help you arrange the supplies on the counter right now."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, do you think we should also add some fresh flowers to brighten up the cafe counter?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Klaus! Fresh flowers would definitely add a nice touch to the cafe counter."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, let's also make sure we have all the necessary inventory for the evening event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I will double-check the inventory right after we finish setting up the cafe counter and adding the fresh flowers. Thank you for reminding me, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, while we are here, let's also discuss the evening's plans with Maria. I want to make sure everything is organized and ready for our friends night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, Klaus! Let's go talk to Maria about the evening's plans."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, let's go meet Maria now to discuss the evening's plans."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:15:30"
+  }
+}
