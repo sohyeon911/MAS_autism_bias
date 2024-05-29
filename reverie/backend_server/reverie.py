@@ -614,7 +614,7 @@ if __name__ == '__main__':
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
   rs = ReverieServer("base_the_ville_isabella_maria_klaus_new", 
-                     "May_the_ville_isabella_maria_klaus-step-3000")
+                     "May_the_ville_isabella_maria_klaus-step-2000")
   
   #July1_the_ville_isabella_maria_klaus-step-3-1
   
@@ -622,7 +622,10 @@ if __name__ == '__main__':
   # target = input("Enter the name of the new simulation: ").strip()
 
   # rs = ReverieServer(origin, target)
-  rs.open_server()
+  #rs.open_server()
+  int_count = 2000
+  rs.start_server(int_count)
+
 
 
 
