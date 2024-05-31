@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfd",
+      "description": "still working at the counter at Hobbs Cafe (cleaning and wiping down tables) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        27,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "placing an order for decorations and supplies for the friends night out event (conversing about finalizing the list of supplies needed for tomorrow's event at Hobbs Cafe and negotiating with suppliers to get the best deals, Klaus Mueller and Maria Lopez are coordinating their efforts and planning to meet at the park office in 15 minutes.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "working on organizing activities for the community at the park (making phone calls to confirm event details) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:44:20"
+  }
+}

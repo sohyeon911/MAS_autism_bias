@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9\ud83e\uddfd",
+      "description": "closing Hobbs Cafe and cleaning up (sweeping and mopping the floors) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        45
+      ],
+      "pronunciatio": "\ud83d\udd25",
+      "description": "having dinner with her family (heating up the food) @ the Ville:Dorm for Oak Hill College:kitchen:toaster",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        113,
+        47
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "finishing up work and heading home (checking in with his team to ensure all tasks are completed) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:18:30"
+  }
+}

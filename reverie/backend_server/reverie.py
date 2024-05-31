@@ -613,8 +613,8 @@ if __name__ == '__main__':
   # rs = ReverieServer("July1_the_ville_isabella_maria_klaus-step-3-20", 
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
-  rs = ReverieServer("base_the_ville_isabella_maria_klaus_new", 
-                     "May_the_ville_isabella_maria_klaus-step-4000_new")
+  rs = ReverieServer("base_the_ville_isabella_maria_klaus_May29", 
+                     "May29_the_ville_isabella_maria_klaus-step-5500")
   
   #July1_the_ville_isabella_maria_klaus-step-3-1
   
@@ -623,7 +623,7 @@ if __name__ == '__main__':
 
   # rs = ReverieServer(origin, target)
   #rs.open_server()
-  int_count = 4000
+  int_count = 5500
   rs.start_server(int_count)
 
 
