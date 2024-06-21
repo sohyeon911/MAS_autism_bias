@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "taking a short break and having a snack (eating her snack) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcca",
+      "description": "reviewing supplier orders and placing necessary orders (comparing the sales data to the inventory levels) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        103,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "attending a staff meeting (taking notes during the meeting) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 11:15:10"
+  }
+}

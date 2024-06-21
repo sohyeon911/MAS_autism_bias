@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udfe1\ud83d\udecc",
+      "description": "returning home and unwinding for the night @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "having dinner and catching up on emails and paperwork (responding to urgent emails) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        28,
+        46
+      ],
+      "pronunciatio": "\ud83c\udf33",
+      "description": "enjoying drinks and socializing with Isabella and Maria at a bar or cafe (suggesting outdoor activities for their friends night out) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:30:00"
+  }
+}

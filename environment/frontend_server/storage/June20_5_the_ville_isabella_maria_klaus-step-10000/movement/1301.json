@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        62,
+        30
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "enjoying a night out with Klaus and Maria, visiting different restaurants and bars (her friends are enjoying dinner at the first restaurant) (checking the time and making sure they stick to their itinerary) @ the Ville:The Willows Market and Pharmacy:store:behind the pharmacy counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading before going to sleep at midnight @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "socializing and enjoying the friends night out event at Hobbs Cafe (taking a break and grabbing a snack) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:06:50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf78",
+      "description": "meeting with Klaus and Maria to plan their night out (discussing potential locations for drinks after dinner) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83e\uddfe",
+      "description": "confirming reservations and making any necessary changes @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        42
+      ],
+      "pronunciatio": "\ud83e\uddfa",
+      "description": "organizing a community picnic for the evening (on the way to organizing a community picnic for the evenin) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:53:20"
+  }
+}

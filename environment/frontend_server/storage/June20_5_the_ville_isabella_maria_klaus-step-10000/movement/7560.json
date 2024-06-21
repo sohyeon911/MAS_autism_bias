@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        62,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a weekend filled with plans for a group workout, picnic with outdoor games like frisbee and football, friends' night out event, and planning a movie night for the future. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's nice to see you taking a break from work. How's your day been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! My day has been great, just taking a breather before heading back to work at the park. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I've been busy at the cafe, but looking forward to our plans for the weekend. I can't wait for the group workout and picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too! It's always great to spend time with friends and stay active. We should definitely make sure to bring sunscreen for the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Agreed, sunscreen is a must for the picnic. It's going to be a fun weekend!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you have any preference for outdoor games we should bring for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we bring a frisbee or a football for some fun games at the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! I'll make a note to bring a frisbee and a football for the picnic. It should be a blast!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also looking forward to the friends' night out event after the picnic. It's going to be so much fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're on the same page! It's going to be an amazing weekend with the workout, picnic, and friends' night out event. Can't wait!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan a movie night for the next event!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, a movie night sounds like a great idea for the next event! We can plan out the details during the friends' night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan a movie night for the next event!"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely plan out the movie night during the friends' night out event; it'll be a blast!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we have the weekend all planned out! Can't wait for all the fun activities ahead."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have everything planned out for the weekend. Looking forward to spending time with friends and enjoying all the activities!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "description": "managing the store and addressing any customer or employee needs (addressing any customer complaints or concerns) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        62,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a weekend filled with plans for a group workout, picnic with outdoor games like frisbee and football, friends' night out event, and planning a movie night for the future. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's nice to see you taking a break from work. How's your day been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! My day has been great, just taking a breather before heading back to work at the park. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I've been busy at the cafe, but looking forward to our plans for the weekend. I can't wait for the group workout and picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too! It's always great to spend time with friends and stay active. We should definitely make sure to bring sunscreen for the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Agreed, sunscreen is a must for the picnic. It's going to be a fun weekend!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you have any preference for outdoor games we should bring for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we bring a frisbee or a football for some fun games at the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! I'll make a note to bring a frisbee and a football for the picnic. It should be a blast!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also looking forward to the friends' night out event after the picnic. It's going to be so much fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're on the same page! It's going to be an amazing weekend with the workout, picnic, and friends' night out event. Can't wait!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan a movie night for the next event!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, a movie night sounds like a great idea for the next event! We can plan out the details during the friends' night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan a movie night for the next event!"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely plan out the movie night during the friends' night out event; it'll be a blast!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we have the weekend all planned out! Can't wait for all the fun activities ahead."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have everything planned out for the weekend. Looking forward to spending time with friends and enjoying all the activities!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 15:30:00"
+  }
+}

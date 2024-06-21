@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller chatting about their day, activities at the park and cafe, with Klaus planning to stop by the cafe later for a coffee. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, it's nice to see you out here. How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, it's great to see you too. My day is going well, just taking a quick break from organizing activities at the park. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing well, just taking care of things here at the cafe. How are the activities going at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "The activities at the park are going smoothly. We have a good turnout today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad everything is going smoothly. If you need a break later, feel free to stop by the cafe for a coffee or treat."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella. I might just take you up on that offer later. How's everything at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything at the cafe is going well, thank you for asking. We had a steady flow of customers today."
+        ],
+        [
+          "Klaus Mueller",
+          "That's good to hear. It's nice that both the park and cafe are busy today. I'll definitely come by later for a coffee. Thanks, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice catching up with you, Klaus. I hope the rest of your day goes smoothly at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate the offer, Isabella. It's always nice to take a break and enjoy a hot drink. I'll definitely swing by later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you later. Enjoy the activities at the park!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the hospitality. I'll see you later at the cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great chatting with you Klaus. Enjoy your day at the park and don't forget to swing by the cafe later for that coffee."
+        ],
+        [
+          "Klaus Mueller",
+          "I will definitely stop by the cafe later. Thank you for the offer, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have a great day, Klaus! Looking forward to seeing you later at the cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you later at the cafe. Have a great day, Isabella!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller chatting about their day, activities at the park and cafe, with Klaus planning to stop by the cafe later for a coffee. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, it's nice to see you out here. How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, it's great to see you too. My day is going well, just taking a quick break from organizing activities at the park. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing well, just taking care of things here at the cafe. How are the activities going at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "The activities at the park are going smoothly. We have a good turnout today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad everything is going smoothly. If you need a break later, feel free to stop by the cafe for a coffee or treat."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella. I might just take you up on that offer later. How's everything at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything at the cafe is going well, thank you for asking. We had a steady flow of customers today."
+        ],
+        [
+          "Klaus Mueller",
+          "That's good to hear. It's nice that both the park and cafe are busy today. I'll definitely come by later for a coffee. Thanks, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice catching up with you, Klaus. I hope the rest of your day goes smoothly at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate the offer, Isabella. It's always nice to take a break and enjoy a hot drink. I'll definitely swing by later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you later. Enjoy the activities at the park!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the hospitality. I'll see you later at the cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great chatting with you Klaus. Enjoy your day at the park and don't forget to swing by the cafe later for that coffee."
+        ],
+        [
+          "Klaus Mueller",
+          "I will definitely stop by the cafe later. Thank you for the offer, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have a great day, Klaus! Looking forward to seeing you later at the cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you later at the cafe. Have a great day, Isabella!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:45:40"
+  }
+}

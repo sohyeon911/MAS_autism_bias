@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        70,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about drafting emails, compiling a list of sponsors, and arranging a meeting to discuss the details between Isabella Rodriguez and Maria Lopez regarding park activities and potential sponsors. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I overheard you and Klaus discussing the park activities and reaching out to potential sponsors. Do you need any help with drafting those emails or compiling a list of sponsors?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for offering to help, Isabella! I would appreciate your assistance with drafting the emails and compiling the list of sponsors. Could we meet later today to go through the details?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure Maria, I can meet with you later today to discuss the details."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's meet after I finalize the restocking and paperwork tasks. How about around 2:00 pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria. I'll see you at 2:00 pm to go over everything."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        70,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about drafting emails, compiling a list of sponsors, and arranging a meeting to discuss the details between Isabella Rodriguez and Maria Lopez regarding park activities and potential sponsors. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I overheard you and Klaus discussing the park activities and reaching out to potential sponsors. Do you need any help with drafting those emails or compiling a list of sponsors?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for offering to help, Isabella! I would appreciate your assistance with drafting the emails and compiling the list of sponsors. Could we meet later today to go through the details?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure Maria, I can meet with you later today to discuss the details."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's meet after I finalize the restocking and paperwork tasks. How about around 2:00 pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria. I'll see you at 2:00 pm to go over everything."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "organizing park activities (reaching out to potential sponsors for the event) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 09:58:40"
+  }
+}

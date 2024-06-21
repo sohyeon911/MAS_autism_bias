@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\u2615",
+      "description": "unwinding and getting ready for bed (making a cup of tea) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans for a friends night out at the park, with Maria offering to bring extra decorations and snacks to enhance the park activities. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day was great! I had a busy but fulfilling day organizing park activities and planning for our friends night out. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day was also busy at the store, but productive. I just finished reviewing employee training materials. Are you free tomorrow evening to finalize the plans for our friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I am free tomorrow evening to finalize the plans for our friends night out. Let's meet at the park at 6:30 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, I'll see you at the park at 6:30 pm tomorrow then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to finalizing our plans for the friends night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you need any help setting up the equipment for the park activities?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! That would be great if you could help with setting up the equipment for the park activities."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra decorations for the park activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Your extra decorations will definitely add a special touch to the park activities. I appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll get everything ready for tomorrow. See you at the park!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to seeing the extra decorations you bring, Maria. It's going to make our park activities even more special!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to also bring some snacks for everyone to enjoy while we're at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Your extra decorations will definitely add a special touch to the park activities. I appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you at the park tomorrow, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to the snacks you'll be bringing, Maria! It will definitely enhance our park activities."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans for a friends night out at the park, with Maria offering to bring extra decorations and snacks to enhance the park activities. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day was great! I had a busy but fulfilling day organizing park activities and planning for our friends night out. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day was also busy at the store, but productive. I just finished reviewing employee training materials. Are you free tomorrow evening to finalize the plans for our friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I am free tomorrow evening to finalize the plans for our friends night out. Let's meet at the park at 6:30 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, I'll see you at the park at 6:30 pm tomorrow then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to finalizing our plans for the friends night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you need any help setting up the equipment for the park activities?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! That would be great if you could help with setting up the equipment for the park activities."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra decorations for the park activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Your extra decorations will definitely add a special touch to the park activities. I appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll get everything ready for tomorrow. See you at the park!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to seeing the extra decorations you bring, Maria. It's going to make our park activities even more special!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to also bring some snacks for everyone to enjoy while we're at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Your extra decorations will definitely add a special touch to the park activities. I appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you at the park tomorrow, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to the snacks you'll be bringing, Maria! It will definitely enhance our park activities."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:34:00"
+  }
+}

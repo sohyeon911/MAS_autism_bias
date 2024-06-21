@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        15
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "closing Hobbs Cafe and getting ready for the friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "collaborating with Isabella and Klaus at Hobbs Cafe to plan their friends night out @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner with friends at Hobbs Cafe (eating his meal) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:21:40"
+  }
+}

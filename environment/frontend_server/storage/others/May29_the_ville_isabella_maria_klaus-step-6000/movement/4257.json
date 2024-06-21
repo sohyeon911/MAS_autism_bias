@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella chatting about their day at the park and cafe, inviting Klaus to join them for dinner and Klaus expressing gratitude for the invitation and enjoying his meal. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's nice to see you! How was your afternoon at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! My afternoon at the park was great. The weather was amazing, and we had a lot of visitors enjoying the activities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join us for dinner, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invite, Isabella! I would love to join you and Maria for dinner."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head back to our table and I'll get your order in."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the invitation. How was your day at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day at the cafe was busy but fulfilling. We had a good flow of customers and everything ran smoothly. How about you, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "My day at the park was productive as well. We had a successful event in the afternoon and the park was bustling with activity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Klaus! It sounds like both of our days were quite eventful. How was your evening at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "My evening at the park was just as vibrant as the day! We had some latecomers join us for a game of soccer, which was a lot of fun."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It sounds like you had a great day at the park, Klaus! I'm glad you could join us for dinner."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! The dinner looks delicious. I appreciate you inviting me to join you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like anything to drink with your dinner, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would like a glass of water, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll get that for you right away, Klaus. Enjoy your meal!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! This meal looks delicious. I appreciate the invite to join you and Maria."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        50
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "closing the store and heading home (cleaning and tidying up the store) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella chatting about their day at the park and cafe, inviting Klaus to join them for dinner and Klaus expressing gratitude for the invitation and enjoying his meal. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's nice to see you! How was your afternoon at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! My afternoon at the park was great. The weather was amazing, and we had a lot of visitors enjoying the activities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like to join us for dinner, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invite, Isabella! I would love to join you and Maria for dinner."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head back to our table and I'll get your order in."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the invitation. How was your day at the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day at the cafe was busy but fulfilling. We had a good flow of customers and everything ran smoothly. How about you, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "My day at the park was productive as well. We had a successful event in the afternoon and the park was bustling with activity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Klaus! It sounds like both of our days were quite eventful. How was your evening at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "My evening at the park was just as vibrant as the day! We had some latecomers join us for a game of soccer, which was a lot of fun."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It sounds like you had a great day at the park, Klaus! I'm glad you could join us for dinner."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! The dinner looks delicious. I appreciate you inviting me to join you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like anything to drink with your dinner, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would like a glass of water, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll get that for you right away, Klaus. Enjoy your meal!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! This meal looks delicious. I appreciate the invite to join you and Maria."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:49:30"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcb3",
+      "description": "still working at the counter at Hobbs Cafe (serving customers and handling payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcde",
+      "description": "working on planning for the friends' night out with Isabella and Klaus (contacting suppliers to order any needed supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        21,
+        46
+      ],
+      "pronunciatio": "\ud83d\udc77\u200d\u2642",
+      "description": "at the park, organizing activities and overseeing maintenance (heading home for the day) (checking on the maintenance crew and assisting with any tasks) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:52:20"
+  }
+}

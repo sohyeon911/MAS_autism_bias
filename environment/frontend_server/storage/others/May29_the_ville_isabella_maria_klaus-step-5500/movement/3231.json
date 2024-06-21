@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        64,
+        48
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "still working at the counter at Hobbs Cafe (restocking supplies and ingredients) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        91,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcb2",
+      "description": "placing an order for decorations and supplies for the friends night out event (comparing prices from different suppliers) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        31,
+        49
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "working on organizing activities for the community at the park (creating a list of activities for the event) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:58:30"
+  }
+}

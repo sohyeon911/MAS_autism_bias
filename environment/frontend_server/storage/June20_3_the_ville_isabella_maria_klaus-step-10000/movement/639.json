@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are planning a friends' night out at the park, discussing activities like a picnic, games, music, sports competitions with prizes, and confirming details with Maria for the final schedule. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I was thinking we could start off our friends' night out with a picnic at the park. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella! We can bring some games like soccer or frisbee to play after the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect! Let's also make sure to bring some snacks and drinks for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we should also bring some music for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think music would be a great addition! We can create a playlist with everyone's favorite songs."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Isabella! I'll make sure to bring my portable speaker for the music."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also bring some sports equipment like a soccer ball and frisbee for the games."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan some friendly sports competitions during the friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think having some friendly sports competitions would be a great addition to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we come up with a prize for the winners of the sports competitions?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We could offer the winners a gift card to a local restaurant as a prize for the sports competitions."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea! I'll reach out to our local restaurants to see if any would be interested in sponsoring the gift card prizes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some notebooks for brainstorming ideas for the activities!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else we need to consider or plan for the friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should decide on a meeting time and place for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we confirm with Maria about the final schedule and activities for tomorrow's friends night out?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciatio": "\ud83d\udecc",
+      "description": "reading before going to sleep (settling into bed) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are planning a friends' night out at the park, discussing activities like a picnic, games, music, sports competitions with prizes, and confirming details with Maria for the final schedule. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I was thinking we could start off our friends' night out with a picnic at the park. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella! We can bring some games like soccer or frisbee to play after the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect! Let's also make sure to bring some snacks and drinks for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we should also bring some music for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think music would be a great addition! We can create a playlist with everyone's favorite songs."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Isabella! I'll make sure to bring my portable speaker for the music."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also bring some sports equipment like a soccer ball and frisbee for the games."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan some friendly sports competitions during the friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think having some friendly sports competitions would be a great addition to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we come up with a prize for the winners of the sports competitions?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We could offer the winners a gift card to a local restaurant as a prize for the sports competitions."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea! I'll reach out to our local restaurants to see if any would be interested in sponsoring the gift card prizes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some notebooks for brainstorming ideas for the activities!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else we need to consider or plan for the friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should decide on a meeting time and place for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we confirm with Maria about the final schedule and activities for tomorrow's friends night out?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:16:30"
+  }
+}

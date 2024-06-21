@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        84,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a night out plan between Isabella Rodriguez and Klaus Mueller, deciding to try a new Italian restaurant downtown and making a reservation for 3 at 8 pm before focusing on enjoying their dinner together @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's great to see you here. How have you been?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I've been good, thanks for asking. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been busy getting the cafe ready for tonight, but I'm excited for our friends' night out. Have you decided what you want to do for dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could try that new Italian restaurant that opened up downtown. How does that sound to you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I'll make a reservation for us. What time should I book?"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's aim for around 8pm for the reservation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll make the reservation for 3 at the Italian restaurant Downtown at 8 pm. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help with setting up at the cafe before dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Klaus. I think I have everything under control at the cafe. Let's just focus on enjoying our dinner tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to a great evening with you and Maria. Thank you for making the reservation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to it. It's going to be a fun night out with good company."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited for our friends' night out. Thank you for organizing everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at 8 pm then, Klaus. Looking forward to our dinner together!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at 8pm. Looking forward to it!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "managing inventory and supplier relationships at the store @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a night out plan between Isabella Rodriguez and Klaus Mueller, deciding to try a new Italian restaurant downtown and making a reservation for 3 at 8 pm before focusing on enjoying their dinner together @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! It's great to see you here. How have you been?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I've been good, thanks for asking. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been busy getting the cafe ready for tonight, but I'm excited for our friends' night out. Have you decided what you want to do for dinner?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could try that new Italian restaurant that opened up downtown. How does that sound to you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I'll make a reservation for us. What time should I book?"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's aim for around 8pm for the reservation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll make the reservation for 3 at the Italian restaurant Downtown at 8 pm. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help with setting up at the cafe before dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Klaus. I think I have everything under control at the cafe. Let's just focus on enjoying our dinner tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to a great evening with you and Maria. Thank you for making the reservation."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to it. It's going to be a fun night out with good company."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited for our friends' night out. Thank you for organizing everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at 8 pm then, Klaus. Looking forward to our dinner together!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at 8pm. Looking forward to it!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:45:30"
+  }
+}

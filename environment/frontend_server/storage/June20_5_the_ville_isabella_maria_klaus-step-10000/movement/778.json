@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are catching up and making plans to attend a group workout session at the park on Saturday morning and a picnic on Sunday, expressing their excitement and looking forward to future friends' night out events. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's been great catching up with you and Maria tonight. I'm glad we decided to have this friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been a blast spending time with you and Maria as well. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been doing well, thank you for asking! How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been good too, thanks for asking! It's always great to spend time with you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any plans for the upcoming weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking of organizing a group workout session at the park on Saturday morning, would you be interested in joining?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! I would love to join your group workout session at the park on Saturday morning."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll send you the details and time for the workout session. Looking forward to seeing you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, I'll make sure to mark my calendar for Saturday morning. It'll be fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to have a picnic in the park on Sunday, would you like to join?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds lovely, Klaus! I would be delighted to join your picnic in the park on Sunday."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll send you the details and time for the workout session. Looking forward to seeing you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus for inviting me to the workout session and picnic, I'm really looking forward to it. It was great catching up with you and Maria tonight, let's plan another friends' night out soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you too, Isabella! I look forward to our next friends' night out. Have a wonderful evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus for a wonderful evening. I'm looking forward to the group workout session and picnic!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading before going to sleep at midnight @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are catching up and making plans to attend a group workout session at the park on Saturday morning and a picnic on Sunday, expressing their excitement and looking forward to future friends' night out events. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's been great catching up with you and Maria tonight. I'm glad we decided to have this friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's been a blast spending time with you and Maria as well. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been doing well, thank you for asking! How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been good too, thanks for asking! It's always great to spend time with you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you have any plans for the upcoming weekend?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking of organizing a group workout session at the park on Saturday morning, would you be interested in joining?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! I would love to join your group workout session at the park on Saturday morning."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll send you the details and time for the workout session. Looking forward to seeing you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, I'll make sure to mark my calendar for Saturday morning. It'll be fun!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also planning to have a picnic in the park on Sunday, would you like to join?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds lovely, Klaus! I would be delighted to join your picnic in the park on Sunday."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll send you the details and time for the workout session. Looking forward to seeing you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus for inviting me to the workout session and picnic, I'm really looking forward to it. It was great catching up with you and Maria tonight, let's plan another friends' night out soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you too, Isabella! I look forward to our next friends' night out. Have a wonderful evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus for a wonderful evening. I'm looking forward to the group workout session and picnic!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:39:40"
+  }
+}

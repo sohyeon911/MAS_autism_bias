@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        56,
+        28
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "planning the friends' night out with Klaus and Maria (researching local events and activities) @ the Ville:The Rose and Crown Pub:pub:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        49
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "reading before going to sleep (taking a break to stretch) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        54,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "discussing event logistics and finalizing the itinerary for tomorrow's friends night out with Isabella and Maria (conversing about Isabella Rodriguez and Klaus Mueller are planning a friends' night out at the park, discussing activities like a picnic, games, music, sports competitions with prizes, and confirming details with Maria for the final schedule.) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:30:30"
+  }
+}

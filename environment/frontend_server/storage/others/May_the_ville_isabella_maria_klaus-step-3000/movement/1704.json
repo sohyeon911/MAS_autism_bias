@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83c\udfe1\ud83d\udecc",
+      "description": "returning home and unwinding for the night @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        88,
+        55
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading before going to bed at midnight (choosing a book to read) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "heading home and winding down for the night (driving home) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:14:00"
+  }
+}

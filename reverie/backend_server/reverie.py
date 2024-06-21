@@ -613,20 +613,19 @@ if __name__ == '__main__':
   # rs = ReverieServer("July1_the_ville_isabella_maria_klaus-step-3-20", 
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
-  rs = ReverieServer("base_the_ville_isabella_maria_klaus_May29", 
-                     "May29_the_ville_isabella_maria_klaus-step-5500")
+  rs = ReverieServer("base_the_ville_isabella_maria_klaus_June20", 
+                     "June20_5_the_ville_isabella_maria_klaus-step-10000")
   
   #July1_the_ville_isabella_maria_klaus-step-3-1
   
   # origin = input("Enter the name of the forked simulation: ").strip()
   # target = input("Enter the name of the new simulation: ").strip()
-
   # rs = ReverieServer(origin, target)
   #rs.open_server()
-  int_count = 5500
+  int_count = 10000
   rs.start_server(int_count)
 
-
+# adding time stamp.
 
 
 

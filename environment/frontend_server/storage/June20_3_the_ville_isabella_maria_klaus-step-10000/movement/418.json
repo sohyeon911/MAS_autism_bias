@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are planning a friends' night out for tomorrow, including a picnic at the park, sports competitions, bringing snacks, sports equipment, notebooks for brainstorming, drinks, and finalizing the schedule. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, have you thought about where we should go for our friends' night out tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, Klaus had a great idea of having a picnic at the park followed by some friendly sports competitions. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea! I'll bring some snacks for the picnic. Let's also make sure to pack some sports equipment for the competitions."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea! I'll make sure to finalize the schedule for tomorrow before we head to the park."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you need any help with finalizing the schedule for tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I think I have everything under control for now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, let me know if you need any help with anything else. I'm looking forward to our fun night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll let you know if I need any help later on. Looking forward to tomorrow night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll start gathering the snacks for the picnic. Let's meet at the park tomorrow at 5pm. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at the park tomorrow at 5pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some sports equipment for the competitions as well. Looking forward to tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some notebooks for us to brainstorm while we're at the park. It will be helpful for finalizing the schedule."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some drinks as well. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll bring some notebooks for us to brainstorm while we're at the park. It will be helpful for finalizing the schedule."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some drinks as well. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra snacks for everyone to enjoy. Looking forward to our friends' night out tomorrow!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are planning a friends' night out for tomorrow, including a picnic at the park, sports competitions, bringing snacks, sports equipment, notebooks for brainstorming, drinks, and finalizing the schedule. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, have you thought about where we should go for our friends' night out tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, Klaus had a great idea of having a picnic at the park followed by some friendly sports competitions. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea! I'll bring some snacks for the picnic. Let's also make sure to pack some sports equipment for the competitions."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea! I'll make sure to finalize the schedule for tomorrow before we head to the park."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Do you need any help with finalizing the schedule for tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I think I have everything under control for now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, let me know if you need any help with anything else. I'm looking forward to our fun night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll let you know if I need any help later on. Looking forward to tomorrow night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll start gathering the snacks for the picnic. Let's meet at the park tomorrow at 5pm. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at the park tomorrow at 5pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some sports equipment for the competitions as well. Looking forward to tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some notebooks for us to brainstorm while we're at the park. It will be helpful for finalizing the schedule."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some drinks as well. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll bring some notebooks for us to brainstorm while we're at the park. It will be helpful for finalizing the schedule."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to bring some drinks as well. See you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some extra snacks for everyone to enjoy. Looking forward to our friends' night out tomorrow!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "having dinner with friends at Hobbs Cafe (discussing event logistics with Isabella and Maria) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:39:40"
+  }
+}

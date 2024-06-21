@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are discussing their plans for a yoga class with Klaus, coordinating the friends night out at Hobbs Cafe, and considering inviting Klaus and the team to the yoga class tomorrow evening. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking about the yoga class tomorrow evening with Klaus. Are you still planning on joining us?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella! I'm definitely looking forward to joining the yoga class tomorrow evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I'm excited for us to unwind and enjoy the yoga class together. Let's aim to meet at the park around 5:45 pm to ensure we have enough time to settle in and start our practice."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to bring my yoga mat for the class. See you at the park at 5:45 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria! I'll bring my water bottle as well. Looking forward to our yoga session tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you finalized the details for the friends night out at Hobbs Cafe as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I have finalized the details for the friends night out at Hobbs Cafe. We can expect a fun and relaxing evening together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for taking care of the final details for the friends night out at Hobbs Cafe, Isabella. I appreciate your help in coordinating everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to the yoga class, Maria! It's always nice to unwind with some yoga."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should invite Klaus and the team to join us for the yoga class as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Maria! I'll reach out to Klaus and see if he and the team would be interested in joining us for the yoga class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's make sure to also invite the rest of the team to join us for the yoga class tomorrow evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea, Maria! I'll send a message to Klaus and the team inviting them to join us for the yoga class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, should we also remind everyone to bring their yoga mats for the class tomorrow evening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I'll definitely remind everyone to bring their yoga mats for the class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you received any updates from Klaus regarding the friends night out at Hobbs Cafe?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are discussing their plans for a yoga class with Klaus, coordinating the friends night out at Hobbs Cafe, and considering inviting Klaus and the team to the yoga class tomorrow evening. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking about the yoga class tomorrow evening with Klaus. Are you still planning on joining us?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella! I'm definitely looking forward to joining the yoga class tomorrow evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I'm excited for us to unwind and enjoy the yoga class together. Let's aim to meet at the park around 5:45 pm to ensure we have enough time to settle in and start our practice."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to bring my yoga mat for the class. See you at the park at 5:45 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria! I'll bring my water bottle as well. Looking forward to our yoga session tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you finalized the details for the friends night out at Hobbs Cafe as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I have finalized the details for the friends night out at Hobbs Cafe. We can expect a fun and relaxing evening together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for taking care of the final details for the friends night out at Hobbs Cafe, Isabella. I appreciate your help in coordinating everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to the yoga class, Maria! It's always nice to unwind with some yoga."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should invite Klaus and the team to join us for the yoga class as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Maria! I'll reach out to Klaus and see if he and the team would be interested in joining us for the yoga class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, let's make sure to also invite the rest of the team to join us for the yoga class tomorrow evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea, Maria! I'll send a message to Klaus and the team inviting them to join us for the yoga class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, should we also remind everyone to bring their yoga mats for the class tomorrow evening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I'll definitely remind everyone to bring their yoga mats for the class tomorrow evening."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you received any updates from Klaus regarding the friends night out at Hobbs Cafe?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        29,
+        49
+      ],
+      "pronunciatio": "\u26bd",
+      "description": "organizing and overseeing activities and maintenance at the park (setting up equipment for the first activity) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 09:17:50"
+  }
+}

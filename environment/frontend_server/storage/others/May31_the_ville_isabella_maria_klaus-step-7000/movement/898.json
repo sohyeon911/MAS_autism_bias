@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "closing Hobbs Cafe and cleaning up (restocking supplies for the next day) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        54
+      ],
+      "pronunciatio": "\ud83d\udc57",
+      "description": "heading home and having dinner with her family (changing out of her work clothes) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        30,
+        42
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "commuting home (locking up the park and making sure all equipment is put away) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:29:40"
+  }
+}

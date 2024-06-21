@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        63,
+        48
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "working at the counter at Hobbs Cafe (checking the inventory and restocking any items that are running low) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are planning a group workout session and picnic over lunch at Hobbs Cafe this weekend. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning Klaus, how are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning Maria! I'm doing well, thank you. I'm looking forward to finalizing plans for the group workout session and picnic this weekend."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'm excited about the group workout session and picnic too. Should we discuss the details over lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's meet at Hobbs Cafe for lunch and discuss the details."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we say around 1:00 pm for lunch at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good to me, see you at 1:00 pm at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Have a productive morning, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you then!"
+        ],
+        [
+          "Maria Lopez",
+          "Have a great day, Klaus!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are planning a group workout session and picnic over lunch at Hobbs Cafe this weekend. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Good morning Klaus, how are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning Maria! I'm doing well, thank you. I'm looking forward to finalizing plans for the group workout session and picnic this weekend."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'm excited about the group workout session and picnic too. Should we discuss the details over lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's meet at Hobbs Cafe for lunch and discuss the details."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we say around 1:00 pm for lunch at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good to me, see you at 1:00 pm at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to it! Have a productive morning, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you then!"
+        ],
+        [
+          "Maria Lopez",
+          "Have a great day, Klaus!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 08:09:40"
+  }
+}

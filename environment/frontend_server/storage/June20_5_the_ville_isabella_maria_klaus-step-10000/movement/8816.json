@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc5b\ud83d\udd11",
+      "description": "meeting with Klaus and Maria to finalize their plans for the night out (grabbing her purse and keys) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner (eating dinner) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        25,
+        48
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "finishing up work at the park (cleaning up and putting away equipment) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 18:59:20"
+  }
+}

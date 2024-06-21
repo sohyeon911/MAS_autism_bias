@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "preparing for bed (washing her face and removing her makeup) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        92,
+        56
+      ],
+      "pronunciatio": "\u2615",
+      "description": "reading before going to sleep at midnight (making a cup of tea) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc4b\ud83d\udcac",
+      "description": "socializing and having fun at the friends night out event (greeting and chatting with Isabella and Maria) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:07:20"
+  }
+}

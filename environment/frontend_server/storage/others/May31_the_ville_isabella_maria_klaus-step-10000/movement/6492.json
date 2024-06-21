@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "responding to emails and catching up on any urgent tasks (conversing about drafting emails, compiling a list of sponsors, and arranging a meeting to discuss the details between Isabella Rodriguez and Maria Lopez regarding park activities and potential sponsors.) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        83,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "checking inventory levels at the supply store (conversing about drafting emails, compiling a list of sponsors, and arranging a meeting to discuss the details between Isabella Rodriguez and Maria Lopez regarding park activities and potential sponsors.) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "organizing park activities (reaching out to potential sponsors for the event) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 10:02:00"
+  }
+}

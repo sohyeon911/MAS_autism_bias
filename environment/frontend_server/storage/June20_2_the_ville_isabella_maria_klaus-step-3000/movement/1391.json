@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the itinerary for a friends' night out including plans for an art gallery visit, dinner reservations, transportation arrangements, meeting time, and confirmed attendees. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I see you're having a great time with your friends. How about we continue our discussion on finalizing the itinerary for our friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, yeah let's continue discussing the final details for our friends' night out. I think we need to finalize our plans for the art gallery visit and the dinner reservations."
+        ],
+        [
+          "Klaus Mueller",
+          "How about we grab a menu and finalize our dinner reservations now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus. Let's take a look at the menu and decide on our dinner options."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also discuss the transportation arrangements for tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's discuss the transportation arrangements for tomorrow night as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific time you would like to meet tomorrow before we head to the art gallery?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can meet at 6pm before heading to the art gallery."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet at 6pm tomorrow before heading to the art gallery. I'll send you a message with the final details."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I appreciate your help with finalizing the plans for tomorrow night. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, let's also make sure to confirm the number of attendees for tomorrow night."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We currently have three confirmed attendees for tomorrow night - you, me, and Maria."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, it looks like everything is coming together nicely for tomorrow night. I'll make sure to confirm the reservation and send you the details. Thanks for coordinating with me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I appreciate your help with finalizing the plans for tomorrow night. I'm looking forward to our friends' night out!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83c\udf19",
+      "description": "reading before going to bed at midnight @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the itinerary for a friends' night out including plans for an art gallery visit, dinner reservations, transportation arrangements, meeting time, and confirmed attendees. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I see you're having a great time with your friends. How about we continue our discussion on finalizing the itinerary for our friends' night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, yeah let's continue discussing the final details for our friends' night out. I think we need to finalize our plans for the art gallery visit and the dinner reservations."
+        ],
+        [
+          "Klaus Mueller",
+          "How about we grab a menu and finalize our dinner reservations now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus. Let's take a look at the menu and decide on our dinner options."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also discuss the transportation arrangements for tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's discuss the transportation arrangements for tomorrow night as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific time you would like to meet tomorrow before we head to the art gallery?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can meet at 6pm before heading to the art gallery."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet at 6pm tomorrow before heading to the art gallery. I'll send you a message with the final details."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I appreciate your help with finalizing the plans for tomorrow night. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, let's also make sure to confirm the number of attendees for tomorrow night."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We currently have three confirmed attendees for tomorrow night - you, me, and Maria."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, it looks like everything is coming together nicely for tomorrow night. I'll make sure to confirm the reservation and send you the details. Thanks for coordinating with me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I appreciate your help with finalizing the plans for tomorrow night. I'm looking forward to our friends' night out!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:21:50"
+  }
+}

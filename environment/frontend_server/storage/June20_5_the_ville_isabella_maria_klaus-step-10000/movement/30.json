@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        15
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "closing up Hobbs Cafe and getting ready to meet with Klaus and Maria at 7:00 pm @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria discussing their plans for a friends night out event, starting with dinner at Hobbs Cafe and outdoor games and a bonfire at the park the next day. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day at work?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day at work was busy but fulfilling. We finalized the plans for tomorrow's friends night out event."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm excited for tomorrow. Did you have any specific ideas in mind for our night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could start the night out with dinner at Hobbs Cafe since it's right in the heart of town and then maybe head over to the park for some outdoor games and a bonfire."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fantastic plan! I love the idea of dinner at Hobbs Cafe followed by some outdoor games and a bonfire at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make a list of what we need for the bonfire and games. Do you want to meet up later tonight to discuss the details?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's meet up later tonight to finalize the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! How about we meet at the park at 8:00 pm to go over everything?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 8:00 pm at the park to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our meeting tonight. See you at 8:00 pm at the park!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria discussing their plans for a friends night out event, starting with dinner at Hobbs Cafe and outdoor games and a bonfire at the park the next day. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day at work?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day at work was busy but fulfilling. We finalized the plans for tomorrow's friends night out event."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm excited for tomorrow. Did you have any specific ideas in mind for our night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking we could start the night out with dinner at Hobbs Cafe since it's right in the heart of town and then maybe head over to the park for some outdoor games and a bonfire."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fantastic plan! I love the idea of dinner at Hobbs Cafe followed by some outdoor games and a bonfire at the park."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make a list of what we need for the bonfire and games. Do you want to meet up later tonight to discuss the details?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's meet up later tonight to finalize the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! How about we meet at the park at 8:00 pm to go over everything?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 8:00 pm at the park to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our meeting tonight. See you at 8:00 pm at the park!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:35:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        67,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcc6",
+      "description": "enjoying her friends' night out with Klaus and Maria (finalizing the itinerary and making any necessary changes) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83c\udf19",
+      "description": "getting ready for bed and reading until she falls asleep at midnight @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\udca1\ud83d\udecc",
+      "description": "going to bed and getting a good night's rest for another busy day tomorrow (turning off the lights and getting into bed) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 23:00:20"
+  }
+}

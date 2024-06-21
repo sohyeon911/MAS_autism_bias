@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "working at the counter and interacting with customers (greeting customers as they enter the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing and inviting Maria Lopez to join a yoga class at the park on Thursday evening, with Klaus Mueller also planning to invite Isabella and the rest of the group to participate. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you organizing the yoga class at the park. That's a great initiative!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I'm glad you noticed. Would you be interested in joining the yoga class?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for the invitation, Klaus. I would love to join the yoga class!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria! The more, the merrier. I'll make sure to save you a spot for the yoga class. When are you available to join?"
+        ],
+        [
+          "Maria Lopez",
+          "I am available on Thursday evenings and Sunday mornings. Which time works best for the yoga class?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's perfect, Maria! How about we schedule the yoga class for Thursday evening this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus! I'll see you at the park on Thursday evening for the yoga class."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll add you to the list for Thursday evening's yoga class. Looking forward to seeing you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for inviting me, Klaus. I appreciate the opportunity to join the yoga class."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send you the details and location of the yoga class on Thursday evening. Looking forward to having you join us!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'll make sure to bring my yoga mat for the class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll also let Isabella know about the yoga class. She might be interested in joining as well."
+        ],
+        [
+          "Maria Lopez",
+          "That's wonderful, Klaus! I'll inform Isabella about the yoga class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to remind Isabella about the yoga class on Thursday evening. It will be great to have both of you join us!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'm looking forward to the yoga class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "I will also inform the rest of the group about the yoga class on Thursday evening. It will be a great opportunity for everyone to join!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing and inviting Maria Lopez to join a yoga class at the park on Thursday evening, with Klaus Mueller also planning to invite Isabella and the rest of the group to participate. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you organizing the yoga class at the park. That's a great initiative!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I'm glad you noticed. Would you be interested in joining the yoga class?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for the invitation, Klaus. I would love to join the yoga class!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria! The more, the merrier. I'll make sure to save you a spot for the yoga class. When are you available to join?"
+        ],
+        [
+          "Maria Lopez",
+          "I am available on Thursday evenings and Sunday mornings. Which time works best for the yoga class?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's perfect, Maria! How about we schedule the yoga class for Thursday evening this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus! I'll see you at the park on Thursday evening for the yoga class."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll add you to the list for Thursday evening's yoga class. Looking forward to seeing you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for inviting me, Klaus. I appreciate the opportunity to join the yoga class."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send you the details and location of the yoga class on Thursday evening. Looking forward to having you join us!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'll make sure to bring my yoga mat for the class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll also let Isabella know about the yoga class. She might be interested in joining as well."
+        ],
+        [
+          "Maria Lopez",
+          "That's wonderful, Klaus! I'll inform Isabella about the yoga class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to remind Isabella about the yoga class on Thursday evening. It will be great to have both of you join us!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'm looking forward to the yoga class on Thursday evening."
+        ],
+        [
+          "Klaus Mueller",
+          "I will also inform the rest of the group about the yoga class on Thursday evening. It will be a great opportunity for everyone to join!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:03:50"
+  }
+}

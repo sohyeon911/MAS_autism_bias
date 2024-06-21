@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are arranging to meet at the park for a yoga class on Thursday at 6 pm, with Isabella mentioning she will bring her yoga mat and water. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I was thinking more about that yoga class you mentioned. I really appreciate the invite and I'm looking forward to unwinding with some yoga on Thursday. What time should I meet you at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm glad you're excited for the yoga class! Let's meet at the park at 6 pm on Thursday. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, 6 pm works perfectly for me. I'll make sure to bring my yoga mat and some water. Can't wait!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! See you on Thursday at 6 pm."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        118,
+        47
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "discussing decorations and supplies needed for their friends night out with Isabella and Klaus (reviewing the guest list and number of attendees) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are arranging to meet at the park for a yoga class on Thursday at 6 pm, with Isabella mentioning she will bring her yoga mat and water. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I was thinking more about that yoga class you mentioned. I really appreciate the invite and I'm looking forward to unwinding with some yoga on Thursday. What time should I meet you at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm glad you're excited for the yoga class! Let's meet at the park at 6 pm on Thursday. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, 6 pm works perfectly for me. I'll make sure to bring my yoga mat and some water. Can't wait!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! See you on Thursday at 6 pm."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:09:30"
+  }
+}

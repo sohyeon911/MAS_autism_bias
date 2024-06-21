@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "planning the friends' night out with Klaus and Maria (creating a budget for the night out) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        55
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "reading before going to sleep (taking notes on important points in the book) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "discussing event logistics and finalizing the itinerary for tomorrow's friends night out with Isabella and Maria (finalizing the itinerary based on their suggestions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:00:40"
+  }
+}

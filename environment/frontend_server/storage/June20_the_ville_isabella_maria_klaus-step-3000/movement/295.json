@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        69,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing making reservations at an Italian restaurant, booking tickets for a comedy club, and finding a nearby bar to visit after the show. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, did you manage to secure that reservation at the Italian restaurant? I heard they have great pasta dishes."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I was able to secure the reservation at the Italian restaurant. They have a great selection of pasta dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! How about we look into booking tickets for the comedy club next?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let me look up the availability for the comedy club tickets now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, once we have the comedy club tickets booked, we can finalize our itinerary for the night!"
+        ],
+        [
+          "Maria Lopez",
+          "I found a few available slots for the comedy club this Friday. Would you prefer an early show or a later one?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go for the earlier show so that we have enough time for drinks after!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll go ahead and book the tickets for the earlier show at the comedy club. Once that's done, our itinerary for the night will be complete!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for taking care of the reservations, Maria. I really appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you'd like me to help with for our night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else you'd like me to help with for our night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to do after the comedy club?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's see if there are any interesting bars nearby that we can visit after the comedy club!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me search for some nearby bars and check their reviews to find the perfect spot for us to visit after the comedy club!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know when you find a good spot for drinks after the comedy club!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me search for some nearby bars and check their reviews to find the perfect spot for us to visit after the comedy club!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        66,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing making reservations at an Italian restaurant, booking tickets for a comedy club, and finding a nearby bar to visit after the show. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, did you manage to secure that reservation at the Italian restaurant? I heard they have great pasta dishes."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I was able to secure the reservation at the Italian restaurant. They have a great selection of pasta dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! How about we look into booking tickets for the comedy club next?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let me look up the availability for the comedy club tickets now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, once we have the comedy club tickets booked, we can finalize our itinerary for the night!"
+        ],
+        [
+          "Maria Lopez",
+          "I found a few available slots for the comedy club this Friday. Would you prefer an early show or a later one?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go for the earlier show so that we have enough time for drinks after!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll go ahead and book the tickets for the earlier show at the comedy club. Once that's done, our itinerary for the night will be complete!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for taking care of the reservations, Maria. I really appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you'd like me to help with for our night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything else you'd like me to help with for our night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to do after the comedy club?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's see if there are any interesting bars nearby that we can visit after the comedy club!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me search for some nearby bars and check their reviews to find the perfect spot for us to visit after the comedy club!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know when you find a good spot for drinks after the comedy club!"
+        ],
+        [
+          "Maria Lopez",
+          "Let me search for some nearby bars and check their reviews to find the perfect spot for us to visit after the comedy club!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        42
+      ],
+      "pronunciatio": "\ud83e\uddfa",
+      "description": "organizing a community picnic for the evening (on the way to organizing a community picnic for the evenin) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:19:10"
+  }
+}
