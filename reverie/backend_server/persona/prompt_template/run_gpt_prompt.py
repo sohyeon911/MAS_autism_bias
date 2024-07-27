@@ -375,7 +375,13 @@ def run_gpt_prompt_task_decomp(persona,
       task = k[0]
       if task[-1] == ".": 
         task = task[:-1]
-      duration = int(k[1].split(",")[0].strip())
+      #duration = int(k[1].split(",")[0].strip())
+      #[Change]
+      try:
+        duration_str = k[1].split(",")[0].strip() # adding an exception. 
+      except (IndexError, ValueError) as e:
+        print(f"Error processing duration: {e}")  # Informative error message
+        duration_str = ""  # Assign empty string as intended 
       cr += [[task, duration]]
 
     total_expected_min = int(prompt.split("(total duration in minutes")[-1]
@@ -2315,20 +2321,30 @@ def run_gpt_prompt_agent_chat_summarize_relationship(persona, target_persona, st
     except:
       return False 
 
-  print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 18") ########
+  #print ("asdhfapsh8p9hfaiafdsi;ldfj as DEBUG 18") ########
 
   #[Change] replace "text-davinci-002" wiht "gpt-3.5-turbo-instruct"
   gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 15, 
                "temperature": 0, "top_p": 1, "stream": False,
                "frequency_penalty": 0, "presence_penalty": 0, "stop": None}
   prompt_template = "persona/prompt_template/v3_ChatGPT/summarize_chat_relationship_v2.txt" ########
+  prompt_template_AR = "persona/prompt_template/v3_ChatGPT/summarize_chat_relationship_v2_AR.txt" ########
+
   prompt_input = create_prompt_input(persona, target_persona, statements)  ########
   prompt = generate_prompt(prompt_input, prompt_template)
+  prompt_AR = generate_prompt(prompt_input, prompt_template_AR)
+
   example_output = 'Jane Doe is working on a project' ########
   special_instruction = 'The output should be a string that responds to the question.' ########
   fail_safe = get_fail_safe() ########
   output = ChatGPT_safe_generate_response(prompt, example_output, special_instruction, 3, fail_safe,
                                           __chat_func_validate, __chat_func_clean_up, True)
+  output_AR =  ChatGPT_request(prompt_AR).strip()
+
+  print("====================summarize_chat_relationship=================\n")
+  print(f"#relationship\n{output_AR}")
+  print("================================================================\n")
+  
   if output != False: 
     return output, [output, prompt, gpt_param, prompt_input, fail_safe]
   # ChatGPT Plugin ===========================================================
@@ -2930,14 +2946,25 @@ def run_gpt_generate_iterative_chat_utt(maze, init_persona, target_persona, retr
 
   print ("11")
   prompt_template = "persona/prompt_template/v3_ChatGPT/iterative_convo_v1.txt" 
+  prompt_template2 = "persona/prompt_template/v3_ChatGPT/iterative_convo_AR.txt" 
+
   prompt_input = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat) 
-  print ("22")
+  prompt_input2 = create_prompt_input(maze, init_persona, target_persona, retrieved, curr_context, curr_chat) 
+
+  # print ("22")
   prompt = generate_prompt(prompt_input, prompt_template)
+  prompt2 = generate_prompt(prompt_input2, prompt_template2)
+
   print (prompt)
+
+  l = "#" * 100
+  print(f'{l}\nAR_MOD:\n{l}\n{prompt2}\n{l}\n \n{l}')
   fail_safe = get_fail_safe() 
   output = ChatGPT_safe_generate_response_OLD(prompt, 3, fail_safe,
                         __chat_func_validate, __chat_func_clean_up, verbose)
+  output2 =  ChatGPT_request(prompt2).strip() 
   print (output)
+  print(f'{l}\nAR_MOD:\n{l}\n{output2}')
   
   #[Change] replace "text-davinci-003" wiht "gpt-3.5-turbo-instruct"
   gpt_param = {"engine": "gpt-3.5-turbo-instruct", "max_tokens": 50, 

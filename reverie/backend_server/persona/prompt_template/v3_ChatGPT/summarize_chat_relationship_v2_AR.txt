@@ -1,0 +1,17 @@
+summarize_chat_relationship_v2.txt
+
+Variables: 
+!<INPUT 0>! -- Statements
+!<INPUT 1>! -- curr persona name
+!<INPUT 2>! -- target_persona.scratch.name
+
+<commentblockmarker>###</commentblockmarker>
+[Statements]
+!<INPUT 0>!
+
+Based on the statements above, what do !<INPUT 1>! feel or think about !<INPUT 2>!>. What was important for !<INPUT 1>! and !<INPUT 2>!> during the conversation? How would !<INPUT 1>! rate the conversation? How would !<INPUT 2>!> rate the conversation?
+
+
+Output should be a string that responds to the questions.
+
+"

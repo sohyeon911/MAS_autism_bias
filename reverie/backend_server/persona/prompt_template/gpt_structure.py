@@ -163,6 +163,49 @@ def ChatGPT_safe_generate_response(prompt,
 
   return False
 
+def ChatGPT_safe_generate_response_AR(prompt, 
+                                   example_output,
+                                   special_instruction,
+                                   repeat=3,
+                                   fail_safe_response="error",
+                                   func_validate=None,
+                                   func_clean_up=None,
+                                   verbose=False): 
+  # prompt = 'GPT-3 Prompt:\n"""\n' + prompt + '\n"""\n'
+  prompt = '"""\n' + prompt + '\n"""\n'
+  prompt += f"Output should be a string that responds to the questions.\n"
+  #prompt += "Example output json:\n"
+  #prompt += '{"output": "' + str(example_output) + '"}'
+
+  if verbose: 
+    print ("CHAT GPT PROMPT")
+    print (prompt)
+
+  for i in range(repeat): 
+
+    try: 
+      curr_gpt_response = ChatGPT_request(prompt).strip()
+      end_index = curr_gpt_response.rfind('}') + 1
+      curr_gpt_response = curr_gpt_response[:end_index]
+      curr_gpt_response = json.loads(curr_gpt_response)["output"]
+
+      # print ("---ashdfaf")
+      # print (curr_gpt_response)
+      # print ("000asdfhia")
+      
+      if func_validate(curr_gpt_response, prompt=prompt): 
+        return func_clean_up(curr_gpt_response, prompt=prompt)
+      
+      if verbose: 
+        print ("---- repeat count: \n", i, curr_gpt_response)
+        print (curr_gpt_response)
+        print ("~~~~")
+
+    except: 
+      pass
+
+  return False
+
 
 def ChatGPT_safe_generate_response_OLD(prompt, 
                                    repeat=3,
