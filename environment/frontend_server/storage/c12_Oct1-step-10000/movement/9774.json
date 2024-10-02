@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        66,
+        23
+      ],
+      "pronunciatio": "\ud83d\udd0d\ud83c\udf27\ufe0f",
+      "description": "continuing the park stroll with her friends, snacks, and drinks (enjoying the scavenger hunt and challenges, and ending the night with a backup plan in case of bad weather) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        110,
+        47
+      ],
+      "pronunciatio": "\ud83d\udd0e\ud83c\udf5d",
+      "description": "completing the scavenger hunt and heading to the Italian restaurant for dinner with Isabella and friends. @ the Ville:The Willows Market and Pharmacy:store:pharmacy store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        46
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "enjoying dinner with friends at the Italian place (checking in with the restaurant host to confirm the dinner reservation) (checking the time and making sure he arrives at the restaurant on time) @ the Ville:The Willows Market and Pharmacy:store:grocery store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 21:39:00"
+  }
+}

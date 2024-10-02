@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing plans for a friends' night out, including a scavenger hunt with challenges, a dinner reservation at an Italian place, bringing prizes, drinks, and snacks, and a backup plan in case of bad weather for a park stroll. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How are you feeling today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm feeling great, thank you. I'm excited for our friends' night out tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's awesome to hear! I'm looking forward to it too. Have you thought about what you want to do for the scavenger hunt?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could incorporate some fun challenges along the route to make it more engaging for everyone. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! I can definitely work on adding some challenges to the scavenger hunt route. Let's make sure it's fun for everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "I also wanted to confirm the dinner reservation at the Italian place for 7pm. Is everything set for that?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have already confirmed the reservation with Klaus, so everything is set for dinner at 7pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great, thanks for taking care of that! I appreciate your attention to detail. Is there anything else we need to cover before tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for tonight, Maria. Let's just make sure to bring the prizes for the scavenger hunt and have a great time with Klaus!"
+        ],
+        [
+          "Maria Lopez",
+          "I can handle bringing the prizes for the scavenger hunt. Is there anything else on your mind that we should discuss?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for tonight, Maria. Let's just make sure to bring the prizes for the scavenger hunt and have a great time with Klaus!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring the drinks and snacks for the park stroll as well. Is there anything specific you think we should include?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also discuss if we need a backup plan in case of bad weather for the park stroll."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any suggestions for the backup plan in case of bad weather for the park stroll?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can consider moving the park stroll indoors to the cafe if the weather doesn't cooperate. That way, we can still enjoy our time together without any disruptions."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan, Isabella! I appreciate your flexibility and thinking ahead. I'm looking forward to our fun night out!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing plans for a friends' night out, including a scavenger hunt with challenges, a dinner reservation at an Italian place, bringing prizes, drinks, and snacks, and a backup plan in case of bad weather for a park stroll. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How are you feeling today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm feeling great, thank you. I'm excited for our friends' night out tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's awesome to hear! I'm looking forward to it too. Have you thought about what you want to do for the scavenger hunt?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could incorporate some fun challenges along the route to make it more engaging for everyone. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! I can definitely work on adding some challenges to the scavenger hunt route. Let's make sure it's fun for everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "I also wanted to confirm the dinner reservation at the Italian place for 7pm. Is everything set for that?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have already confirmed the reservation with Klaus, so everything is set for dinner at 7pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great, thanks for taking care of that! I appreciate your attention to detail. Is there anything else we need to cover before tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for tonight, Maria. Let's just make sure to bring the prizes for the scavenger hunt and have a great time with Klaus!"
+        ],
+        [
+          "Maria Lopez",
+          "I can handle bringing the prizes for the scavenger hunt. Is there anything else on your mind that we should discuss?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for tonight, Maria. Let's just make sure to bring the prizes for the scavenger hunt and have a great time with Klaus!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring the drinks and snacks for the park stroll as well. Is there anything specific you think we should include?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also discuss if we need a backup plan in case of bad weather for the park stroll."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any suggestions for the backup plan in case of bad weather for the park stroll?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can consider moving the park stroll indoors to the cafe if the weather doesn't cooperate. That way, we can still enjoy our time together without any disruptions."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan, Isabella! I appreciate your flexibility and thinking ahead. I'm looking forward to our fun night out!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcf1",
+      "description": "confirming the dinner reservation at the Italian place for 7 pm (checking his phone for the restaurant's contact information) @ the Ville:The Willows Market and Pharmacy:store:pharmacy store counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 20:32:00"
+  }
+}
