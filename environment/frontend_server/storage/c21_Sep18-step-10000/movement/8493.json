@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, discussing dinner plans at a sushi place followed by a visit to an arcade. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm glad to see you here. Are you all set for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm all set and really looking forward to it. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm all ready too! Can't wait to catch up with you and Klaus tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'm sure it's going to be a fun night! Did you manage to finalize any plans for after dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I've been thinking about maybe going to an arcade or having dessert at the gelato place. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I think an arcade would be a lot of fun. Let's plan for that after dinner."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! Let's finalize the details for the arcade visit and make sure we have everything set for a fantastic evening. Should we plan to meet at the sushi place around 6:30pm to give us enough time to enjoy dinner before heading to the arcade?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let's meet at 6:30pm at the sushi place. I can't wait for tonight's fun! See you soon, Isabella!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, discussing dinner plans at a sushi place followed by a visit to an arcade. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm glad to see you here. Are you all set for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm all set and really looking forward to it. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm all ready too! Can't wait to catch up with you and Klaus tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'm sure it's going to be a fun night! Did you manage to finalize any plans for after dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I've been thinking about maybe going to an arcade or having dessert at the gelato place. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I think an arcade would be a lot of fun. Let's plan for that after dinner."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! Let's finalize the details for the arcade visit and make sure we have everything set for a fantastic evening. Should we plan to meet at the sushi place around 6:30pm to give us enough time to enjoy dinner before heading to the arcade?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let's meet at 6:30pm at the sushi place. I can't wait for tonight's fun! See you soon, Isabella!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcc5",
+      "description": "organizing activities at the park (checking the park's schedule for any upcoming events) (checking the park's schedule for any upcoming events) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 18:05:30"
+  }
+}

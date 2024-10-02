@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf26\ufe0f",
+      "description": "finalizing plans and preparations for the friends' night out (checking the weather forecast, offering to help with decorations, and ensuring snacks and beverages are ready for a fun evening.) (checking the weather forecast for tomorrow evening) (checking the weather forecast for tomorrow evening) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting with Isabella and Klaus to plan tomorrow's friends night out (on the way to discussing potential activities for the night out) (discussing potential activities for the night out with Isabella and Klaus) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf54\ud83e\udd64",
+      "description": "continuing to enjoy friends night out at Hobbs Cafe with Isabella and Maria (eating dinner, playing outdoor games, and spending quality time together) (ordering food and drinks for the group) (ordering food and drinks for the group) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:31:30"
+  }
+}

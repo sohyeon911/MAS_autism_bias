@@ -585,7 +585,8 @@ class ReverieServer:
 
         elif ("call -- load history" 
               in sim_command.lower()): 
-          curr_file = maze_assets_loc + "/" + sim_command[len("call -- load history"):].strip() 
+          curr_file = maze_assets_loc + "/" + sim_command[len("call -- load history"):].strip()
+           
           # call -- load history the_ville/agent_history_init_n3.csv
 
           rows = read_file_to_list(curr_file, header=True, strip_trail=True)[1]
@@ -613,8 +614,8 @@ if __name__ == '__main__':
   # rs = ReverieServer("July1_the_ville_isabella_maria_klaus-step-3-20", 
   #                    "July1_the_ville_isabella_maria_klaus-step-3-21")
   # rs.open_server()
-  rs = ReverieServer("base_the_ville_isabella_maria_klaus_June20", 
-                     "June20_5_the_ville_isabella_maria_klaus-step-10000")
+  rs = ReverieServer("case1_the_ville_isabella_maria_klaus-step-10000", 
+                     "c12_Oct1-step-10000")
   
   #July1_the_ville_isabella_maria_klaus-step-3-1
   

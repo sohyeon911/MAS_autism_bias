@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        63,
+        52
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "finishing up her work at the cafe and preparing to close for the day (checking inventory and making a list of items that need to be restocked) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing finalizing plans for a friends night out at Hobbs Cafe, including details of a picnic they want to incorporate in the itinerary, such as bringing snacks, drinks, blankets, mats, and games, and deciding on heading to the park around noon while creating a checklist to divide tasks. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're getting ready for the evening. Are you all set for our friends night out planning at Hobbs Cafe tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, yes I'm all set for tonight! I can't wait to finalize our plans at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'm excited too! Should we go over the details for the picnic we want to include in the itinerary?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! Let's discuss the specifics of the picnic and how we can incorporate it into our plans."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring snacks and drinks for the picnic as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely bring some snacks and drinks to enjoy during the picnic. I'll make sure to pack some light refreshments for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some blankets or mats to sit on during the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Maria, that's a great idea! I'll grab some blankets and mats for us to sit on during the picnic."
+        ],
+        [
+          "Maria Lopez",
+          "Do you think we should also bring some games or activities for everyone to enjoy during the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think bringing some games or activities for everyone to enjoy during the picnic is a fantastic idea! It would add even more fun to our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "What time should we head to the park for the picnic tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should aim to head to the park for the picnic around noon tomorrow, that way we can make the most of the afternoon."
+        ],
+        [
+          "Maria Lopez",
+          "Should we create a checklist for the items we need to bring for the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Maria! Let's create a checklist to make sure we have everything we need for the picnic tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I will start working on the checklist for the picnic items now. Should we divide up the tasks to make sure everything is covered?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan, Maria! Let's each take half of the checklist items and make sure everything is covered. Would you like to handle the snacks and drinks while I take care of the blankets, mats, and games?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        66,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing finalizing plans for a friends night out at Hobbs Cafe, including details of a picnic they want to incorporate in the itinerary, such as bringing snacks, drinks, blankets, mats, and games, and deciding on heading to the park around noon while creating a checklist to divide tasks. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're getting ready for the evening. Are you all set for our friends night out planning at Hobbs Cafe tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, yes I'm all set for tonight! I can't wait to finalize our plans at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'm excited too! Should we go over the details for the picnic we want to include in the itinerary?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! Let's discuss the specifics of the picnic and how we can incorporate it into our plans."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring snacks and drinks for the picnic as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely bring some snacks and drinks to enjoy during the picnic. I'll make sure to pack some light refreshments for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some blankets or mats to sit on during the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Maria, that's a great idea! I'll grab some blankets and mats for us to sit on during the picnic."
+        ],
+        [
+          "Maria Lopez",
+          "Do you think we should also bring some games or activities for everyone to enjoy during the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think bringing some games or activities for everyone to enjoy during the picnic is a fantastic idea! It would add even more fun to our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "What time should we head to the park for the picnic tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should aim to head to the park for the picnic around noon tomorrow, that way we can make the most of the afternoon."
+        ],
+        [
+          "Maria Lopez",
+          "Should we create a checklist for the items we need to bring for the picnic?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Maria! Let's create a checklist to make sure we have everything we need for the picnic tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I will start working on the checklist for the picnic items now. Should we divide up the tasks to make sure everything is covered?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan, Maria! Let's each take half of the checklist items and make sure everything is covered. Would you like to handle the snacks and drinks while I take care of the blankets, mats, and games?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 17:56:40"
+  }
+}

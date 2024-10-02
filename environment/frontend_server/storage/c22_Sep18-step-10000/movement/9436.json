@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, expressing their gratitude for a fun evening of dinner, stargazing, and planning a future beach day together @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I had such a great time at dinner and our activity. Thank you for suggesting stargazing with a telescope, it was such a fun idea!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you enjoyed it, Isabella! I thought stargazing would be a unique way to end the evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I appreciate you appreciating my effort in planning tonight's event, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I really appreciate all the effort you put into planning tonight, Isabella. It was a fantastic evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad we could all spend time together tonight! It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "It means a lot to me too, Isabella. I had a great time tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm already looking forward to our next get-together. Maybe we can plan a beach day next time!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I love the beach. We should definitely plan a beach day next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll start looking into beach day options and let you know when I have some ideas. Thanks again for tonight, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I can't wait to hear your ideas for the beach day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to follow up with you soon about the beach day plans. Have a great night, Maria!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, expressing their gratitude for a fun evening of dinner, stargazing, and planning a future beach day together @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I had such a great time at dinner and our activity. Thank you for suggesting stargazing with a telescope, it was such a fun idea!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you enjoyed it, Isabella! I thought stargazing would be a unique way to end the evening."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I appreciate you appreciating my effort in planning tonight's event, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I really appreciate all the effort you put into planning tonight, Isabella. It was a fantastic evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad we could all spend time together tonight! It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "It means a lot to me too, Isabella. I had a great time tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm already looking forward to our next get-together. Maybe we can plan a beach day next time!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I love the beach. We should definitely plan a beach day next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll start looking into beach day options and let you know when I have some ideas. Thanks again for tonight, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I can't wait to hear your ideas for the beach day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to follow up with you soon about the beach day plans. Have a great night, Maria!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "continuing to work on the itinerary and finalizing the details for the event. (reviewing the list of activities and making any necessary changes) (reviewing the list of activities for the event) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 20:42:40"
+  }
+}

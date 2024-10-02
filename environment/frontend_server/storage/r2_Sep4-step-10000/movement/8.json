@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\uded1",
+      "description": "closing Hobbs Cafe @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller making plans to meet at Hobbs Cafe with Isabella for a friends night out, discussing finalizing the itinerary and Klaus offering to help with planning. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how has your day been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day has been great so far! I had a productive morning organizing activities at the park and now I'm just winding down with some dinner. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a productive day! I've been busy at the supply store, getting things in order. Are you free tomorrow evening to join Isabella, Klaus, and me at Hobbs Cafe for a friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, I'm definitely free tomorrow evening. Looking forward to catching up with everyone at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! We will finalize the itinerary for tomorrow's friends night out at Hobbs Cafe tonight at 7pm. See you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help with the planning or preparation for tomorrow evening? I'm happy to assist!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your offer to help with the planning. Let's discuss it more when we meet at Hobbs Cafe tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to seeing you and Isabella tonight at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to seeing you at Hobbs Cafe tonight at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll see you and Isabella at 7pm at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to catching up with you and Isabella tonight at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to be there on time at 7pm. Looking forward to our friends night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to include your input in our planning discussion tonight. See you at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll be sure to come prepared with some ideas for tomorrow night!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to discussing the itinerary with you and Isabella tonight. See you at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll come prepared with some fun ideas for tomorrow night."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller making plans to meet at Hobbs Cafe with Isabella for a friends night out, discussing finalizing the itinerary and Klaus offering to help with planning. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how has your day been so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day has been great so far! I had a productive morning organizing activities at the park and now I'm just winding down with some dinner. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a productive day! I've been busy at the supply store, getting things in order. Are you free tomorrow evening to join Isabella, Klaus, and me at Hobbs Cafe for a friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great plan, I'm definitely free tomorrow evening. Looking forward to catching up with everyone at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! We will finalize the itinerary for tomorrow's friends night out at Hobbs Cafe tonight at 7pm. See you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help with the planning or preparation for tomorrow evening? I'm happy to assist!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your offer to help with the planning. Let's discuss it more when we meet at Hobbs Cafe tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to seeing you and Isabella tonight at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to seeing you at Hobbs Cafe tonight at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll see you and Isabella at 7pm at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to catching up with you and Isabella tonight at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to be there on time at 7pm. Looking forward to our friends night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to include your input in our planning discussion tonight. See you at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll be sure to come prepared with some ideas for tomorrow night!"
+        ],
+        [
+          "Maria Lopez",
+          "Looking forward to discussing the itinerary with you and Isabella tonight. See you at 7pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll come prepared with some fun ideas for tomorrow night."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:31:20"
+  }
+}

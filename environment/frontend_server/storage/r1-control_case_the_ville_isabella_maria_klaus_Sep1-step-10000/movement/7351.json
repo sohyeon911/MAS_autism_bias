@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\u2615\ud83c\udf73",
+      "description": "busy managing the cafe and working on some new menu items @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        64,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing the setup for a community sports tournament and making plans to meet at Hobbs Cafe with Isabella to finalize their friends night out itinerary. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the setup for the community sports tournament going? Do you need any help with anything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! The setup is going well, thank you for asking. I think we're all set with everything for now. How are things going with the employees?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm just checking in with everyone and making sure everything is running smoothly here at the store. Let me know if you need any assistance with the tournament."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks Maria, I appreciate your offer to help. I think we're good for now, but I'll definitely let you know if anything comes up."
+        ],
+        [
+          "Maria Lopez",
+          "Great to hear that everything is going smoothly with the setup. If you need any last-minute help, don't hesitate to reach out. Have a successful tournament!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll keep that in mind. I'm looking forward to a successful tournament as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll be meeting Isabella and Klaus at Hobbs Cafe at 7pm tonight to finalize our friends night out itinerary. Are you joining us?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely be there, Maria! Looking forward to finalizing the plans and having a great time with everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus! See you tonight at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        65,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing the setup for a community sports tournament and making plans to meet at Hobbs Cafe with Isabella to finalize their friends night out itinerary. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the setup for the community sports tournament going? Do you need any help with anything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! The setup is going well, thank you for asking. I think we're all set with everything for now. How are things going with the employees?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm just checking in with everyone and making sure everything is running smoothly here at the store. Let me know if you need any assistance with the tournament."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks Maria, I appreciate your offer to help. I think we're good for now, but I'll definitely let you know if anything comes up."
+        ],
+        [
+          "Maria Lopez",
+          "Great to hear that everything is going smoothly with the setup. If you need any last-minute help, don't hesitate to reach out. Have a successful tournament!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'll keep that in mind. I'm looking forward to a successful tournament as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll be meeting Isabella and Klaus at Hobbs Cafe at 7pm tonight to finalize our friends night out itinerary. Are you joining us?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely be there, Maria! Looking forward to finalizing the plans and having a great time with everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus! See you tonight at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 14:55:10"
+  }
+}

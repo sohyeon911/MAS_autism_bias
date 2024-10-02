@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner and getting ready for the friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        37
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting with Isabella and Klaus to create an itinerary for tomorrow's friends night out (on the way to discussing potential activities for the night out with Isabella and Klaus) (discussing potential activities for the night out with Isabella and Klaus) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        66,
+        56
+      ],
+      "pronunciatio": "\ud83c\udf0c",
+      "description": "overseeing the evening activities at the park @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:53:00"
+  }
+}

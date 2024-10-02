@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        32,
+        43
+      ],
+      "pronunciatio": "\ud83c\udfb6",
+      "description": "attending the concert in the park with Maria and Klaus (finding a spot to sit at the concert) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        56,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing plans for a fun evening, including a guided tour at the art gallery, double-checking arrangements for the concert in the park, and getting ready to start their evening adventure @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad we all made it to the restaurant. How was your day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been great so far, looking forward to a fun evening with you and Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited for the guided tour at the art gallery next, are you ready for that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely! I can't wait to explore the art gallery with you and Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have everything set for the concert in the park later tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! Let's double-check our transportation arrangements and make sure we have everything we need for the concert."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need help with anything else before we head to the art gallery?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for your help, Maria. I think we're all set for the evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we head out and start our evening adventure?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        56,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing plans for a fun evening, including a guided tour at the art gallery, double-checking arrangements for the concert in the park, and getting ready to start their evening adventure @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad we all made it to the restaurant. How was your day?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been great so far, looking forward to a fun evening with you and Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited for the guided tour at the art gallery next, are you ready for that?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely! I can't wait to explore the art gallery with you and Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have everything set for the concert in the park later tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! Let's double-check our transportation arrangements and make sure we have everything we need for the concert."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need help with anything else before we head to the art gallery?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for your help, Maria. I think we're all set for the evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we head out and start our evening adventure?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 21:38:50"
+  }
+}

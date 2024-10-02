@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        59,
+        48
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "working at the counter at Hobbs Cafe (on the way to checking inventory and restocking any items that are running low) (checking the inventory for any items that need to be restocked) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        64,
+        48
+      ],
+      "pronunciatio": "\ud83d\udce7",
+      "description": "back at the supply store, managing operations and completing tasks/paperwork (on the way to checking inventory levels) (checking emails and responding to any urgent messages) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcc5",
+      "description": "organizing activities at the park (checking the park's schedule for any upcoming events) (checking the park's schedule for any upcoming events) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 15:47:20"
+  }
+}

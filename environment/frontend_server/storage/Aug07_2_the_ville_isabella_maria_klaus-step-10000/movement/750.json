@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a fun friends' night out with activities such as a picnic, scavenger hunt, bonfire, bringing board games, blankets, drinks, snacks, and discussing backup indoor activities and equipment like extra batteries and a Bluetooth speaker. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm excited about our friends' night out tomorrow. Have you thought about any specific activities you'd like to do?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I was thinking it would be cool to start with a picnic at the park, followed by a scavenger hunt, and then ending the night with a bonfire. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fun plan, Klaus! I'll get the picnic basket ready and we can divide up the scavenger hunt tasks. What time should we meet at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we meet at the park at 5 pm to set up for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea! I'll make sure to bring some board games to play during the picnic. Can't wait for tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll bring some marshmallows for the bonfire. See you tomorrow at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think it would be a good idea to bring some blankets for the picnic in case it gets chilly as the night progresses."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring some extra blankets for the picnic in case it gets chilly. See you tomorrow at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll bring some drinks for everyone to enjoy at the picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "Awesome! Thanks for taking care of the drinks, Isabella. Can't wait to catch up tomorrow and have a great time with everyone!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also bring some snacks for everyone to enjoy during the picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan for some backup indoor activities in case the weather doesn't cooperate?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, Klaus. Let's come up with some backup indoor activities just in case the weather doesn't cooperate."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we consider bringing some extra jackets in case it gets colder in the evening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make a list of backup indoor activities we can do just in case."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring a Bluetooth speaker for some music during the bonfire. Should I bring some extra batteries as well?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "meeting with Isabella and Klaus at Hobbs Cafe to plan the itinerary for tomorrow's friends night out (discussing potential activities for the night out with Isabella and Klaus) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a fun friends' night out with activities such as a picnic, scavenger hunt, bonfire, bringing board games, blankets, drinks, snacks, and discussing backup indoor activities and equipment like extra batteries and a Bluetooth speaker. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm excited about our friends' night out tomorrow. Have you thought about any specific activities you'd like to do?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I was thinking it would be cool to start with a picnic at the park, followed by a scavenger hunt, and then ending the night with a bonfire. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fun plan, Klaus! I'll get the picnic basket ready and we can divide up the scavenger hunt tasks. What time should we meet at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we meet at the park at 5 pm to set up for the picnic?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea! I'll make sure to bring some board games to play during the picnic. Can't wait for tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll bring some marshmallows for the bonfire. See you tomorrow at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think it would be a good idea to bring some blankets for the picnic in case it gets chilly as the night progresses."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring some extra blankets for the picnic in case it gets chilly. See you tomorrow at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll bring some drinks for everyone to enjoy at the picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "Awesome! Thanks for taking care of the drinks, Isabella. Can't wait to catch up tomorrow and have a great time with everyone!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also bring some snacks for everyone to enjoy during the picnic."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan for some backup indoor activities in case the weather doesn't cooperate?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, Klaus. Let's come up with some backup indoor activities just in case the weather doesn't cooperate."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we consider bringing some extra jackets in case it gets colder in the evening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make a list of backup indoor activities we can do just in case."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring a Bluetooth speaker for some music during the bonfire. Should I bring some extra batteries as well?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:35:00"
+  }
+}

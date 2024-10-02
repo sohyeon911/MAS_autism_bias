@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        43
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "working at the counter at Hobbs Cafe (greeting customers and taking their orders) (checking inventory and restocking supplies) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        89,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are finalizing plans for their friends' night out, discussing snacks, drinks, entertainment options, and preparations for the bonfire at the park. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your day at work? Are you looking forward to the friends night out planning meeting tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day at work was great, thank you for asking. I'm really excited for the friends' night out planning meeting tonight!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that your day went well! I'm excited too, we have a fun night ahead of us."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to finalize the plans and make sure everything is set for a fun evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Have you thought about what snacks or drinks we should bring for the bonfire at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've already prepared some snacks like s'mores and drinks like hot chocolate for the bonfire, but we can definitely bring more options if you have any other preferences."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I think those snacks and drinks will be perfect for the bonfire. I'll also bring some marshmallows and maybe some chips for variety."
+        ],
+        [
+          "Klaus Mueller",
+          "I also packed some extra blankets, a Bluetooth speaker, and additional jackets in case the weather gets colder. Is there anything else we should consider bringing?"
+        ],
+        [
+          "Maria Lopez",
+          "We should also bring some board games for extra entertainment in case we want to play some games after the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider bringing some extra batteries for the bonfire in case we need them?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea! Let's also bring some glow sticks for added fun and visibility during the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also double-check the weather forecast before heading to the park to make sure we're prepared for any changes."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting point and time with Isabella before we all head to the park."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also make sure to assign tasks for the picnic and bonfire, and create a shared document to keep track of contributions."
+        ],
+        [
+          "Maria Lopez",
+          "We should also coordinate with Isabella to confirm transportation options to the park and discuss backup indoor activities in case the weather doesn't cooperate."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also remind Isabella to bring some snacks for the picnic so we have a variety of options available."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are finalizing plans for their friends' night out, discussing snacks, drinks, entertainment options, and preparations for the bonfire at the park. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your day at work? Are you looking forward to the friends night out planning meeting tonight?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day at work was great, thank you for asking. I'm really excited for the friends' night out planning meeting tonight!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that your day went well! I'm excited too, we have a fun night ahead of us."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to finalize the plans and make sure everything is set for a fun evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Have you thought about what snacks or drinks we should bring for the bonfire at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've already prepared some snacks like s'mores and drinks like hot chocolate for the bonfire, but we can definitely bring more options if you have any other preferences."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I think those snacks and drinks will be perfect for the bonfire. I'll also bring some marshmallows and maybe some chips for variety."
+        ],
+        [
+          "Klaus Mueller",
+          "I also packed some extra blankets, a Bluetooth speaker, and additional jackets in case the weather gets colder. Is there anything else we should consider bringing?"
+        ],
+        [
+          "Maria Lopez",
+          "We should also bring some board games for extra entertainment in case we want to play some games after the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider bringing some extra batteries for the bonfire in case we need them?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea! Let's also bring some glow sticks for added fun and visibility during the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also double-check the weather forecast before heading to the park to make sure we're prepared for any changes."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting point and time with Isabella before we all head to the park."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also make sure to assign tasks for the picnic and bonfire, and create a shared document to keep track of contributions."
+        ],
+        [
+          "Maria Lopez",
+          "We should also coordinate with Isabella to confirm transportation options to the park and discuss backup indoor activities in case the weather doesn't cooperate."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also remind Isabella to bring some snacks for the picnic so we have a variety of options available."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 16:50:40"
+  }
+}

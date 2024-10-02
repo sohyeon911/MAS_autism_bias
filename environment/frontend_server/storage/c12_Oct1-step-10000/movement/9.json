@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf77",
+      "description": "closing up the cafe and getting ready for the friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing plans for tomorrow's friends night out at Hobbs Cafe, including finalizing the itinerary, incorporating new menu items, and scheduling a tasting session to ensure their success. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It was a great day at the park. Lots of activities and events planned for the community."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds exciting! Is there anything interesting you're working on for the community?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we are co-planning tomorrow\u2019s friends night out at Hobbs Cafe with Isabella. We need to come up with a set itinerary by 11pm today."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan! I'm excited to work on the itinerary with you and Isabella."
+        ],
+        [
+          "Klaus Mueller",
+          "We should head to Hobbs Cafe now to meet Isabella and finalize the itinerary."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head over to Hobbs Cafe now and get started on the itinerary. I'm looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we walk or drive to Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's walk to Hobbs Cafe, it's such a nice day out and the cafe isn't too far from here."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, let's enjoy the walk and catch up on our way to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "I heard Isabella has some new menu items she wants to introduce for tomorrow's friends night out. Have you had a chance to take a look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't had a chance to look at the new menu items yet. I'm excited to see what Isabella has planned."
+        ],
+        [
+          "Maria Lopez",
+          "We should definitely make sure to incorporate the new menu items into our itinerary for tomorrow's friends night out. Let's bring some creative ideas to the table!"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's brainstorm some ideas together on how we can incorporate the new menu items into the itinerary. I think it will add a special touch to tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, let's make sure to sample the new menu items as well to ensure they meet our expectations. I think it's important for the success of tomorrow's event."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure to schedule a tasting session of the new menu items before finalizing the itinerary. That way, we can ensure they are a perfect fit for tomorrow's event."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing plans for tomorrow's friends night out at Hobbs Cafe, including finalizing the itinerary, incorporating new menu items, and scheduling a tasting session to ensure their success. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It was a great day at the park. Lots of activities and events planned for the community."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds exciting! Is there anything interesting you're working on for the community?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we are co-planning tomorrow\u2019s friends night out at Hobbs Cafe with Isabella. We need to come up with a set itinerary by 11pm today."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan! I'm excited to work on the itinerary with you and Isabella."
+        ],
+        [
+          "Klaus Mueller",
+          "We should head to Hobbs Cafe now to meet Isabella and finalize the itinerary."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head over to Hobbs Cafe now and get started on the itinerary. I'm looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we walk or drive to Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's walk to Hobbs Cafe, it's such a nice day out and the cafe isn't too far from here."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, let's enjoy the walk and catch up on our way to Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "I heard Isabella has some new menu items she wants to introduce for tomorrow's friends night out. Have you had a chance to take a look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't had a chance to look at the new menu items yet. I'm excited to see what Isabella has planned."
+        ],
+        [
+          "Maria Lopez",
+          "We should definitely make sure to incorporate the new menu items into our itinerary for tomorrow's friends night out. Let's bring some creative ideas to the table!"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's brainstorm some ideas together on how we can incorporate the new menu items into the itinerary. I think it will add a special touch to tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, let's make sure to sample the new menu items as well to ensure they meet our expectations. I think it's important for the success of tomorrow's event."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure to schedule a tasting session of the new menu items before finalizing the itinerary. That way, we can ensure they are a perfect fit for tomorrow's event."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:31:30"
+  }
+}

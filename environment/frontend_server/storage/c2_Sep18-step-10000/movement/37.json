@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddf9",
+      "description": "closing up Hobbs Cafe and cleaning up before her friends arrive @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends night out itinerary which includes a game night at the park, karaoke at a nearby bar, and discussing accommodations for Isabella to ensure her comfort and inclusion in the activities @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's everything going at the park today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, everything is going great at the park. I'm actually excited about our friends night out planning session tonight at Hobbs Cafe. Are you ready for some brainstorming?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I'm excited too! I've been thinking about some fun ideas we could include in our itinerary for tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great, Maria! I'm looking forward to hearing your ideas. Let's grab a table at Hobbs Cafe and start brainstorming."
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start off with a fun game night at the park and then maybe head to a nearby karaoke bar for some singing and dancing. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I love the combination of a game night at the park and karaoke later on. I think our friends will really enjoy that. Let's finalize the details over dinner tonight."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the details over dinner tonight. Would you like to meet up at Hobbs Cafe around 6:30 pm before our planning session?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect, Maria! I'll see you at 6:30 pm at Hobbs Cafe. Looking forward to finalizing our plans over dinner."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 6:30 pm at Hobbs Cafe, Klaus. Looking forward to finalizing our plans tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also discuss any accommodations we need to make for Isabella to ensure she is comfortable and can fully participate in our friends night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, we should definitely discuss any accommodations we need to make for Isabella to ensure she is comfortable and can fully participate in our friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider any dietary restrictions or preferences Isabella may have to make sure she enjoys the evening as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make a note to discuss that with Isabella when we meet, thank you for bringing that up."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's make sure we cover all bases to ensure everyone has a fantastic time tomorrow. I appreciate your thoughtfulness in considering Isabella's needs as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll discuss the accommodations and dietary restrictions with Isabella tonight and make sure everything is taken care of for her."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would also be a good idea to check if Isabella needs any support or assistance during the activities we have planned. We want to make sure she feels comfortable and included."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends night out itinerary which includes a game night at the park, karaoke at a nearby bar, and discussing accommodations for Isabella to ensure her comfort and inclusion in the activities @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's everything going at the park today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, everything is going great at the park. I'm actually excited about our friends night out planning session tonight at Hobbs Cafe. Are you ready for some brainstorming?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I'm excited too! I've been thinking about some fun ideas we could include in our itinerary for tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great, Maria! I'm looking forward to hearing your ideas. Let's grab a table at Hobbs Cafe and start brainstorming."
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start off with a fun game night at the park and then maybe head to a nearby karaoke bar for some singing and dancing. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I love the combination of a game night at the park and karaoke later on. I think our friends will really enjoy that. Let's finalize the details over dinner tonight."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the details over dinner tonight. Would you like to meet up at Hobbs Cafe around 6:30 pm before our planning session?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect, Maria! I'll see you at 6:30 pm at Hobbs Cafe. Looking forward to finalizing our plans over dinner."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 6:30 pm at Hobbs Cafe, Klaus. Looking forward to finalizing our plans tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also discuss any accommodations we need to make for Isabella to ensure she is comfortable and can fully participate in our friends night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, we should definitely discuss any accommodations we need to make for Isabella to ensure she is comfortable and can fully participate in our friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider any dietary restrictions or preferences Isabella may have to make sure she enjoys the evening as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make a note to discuss that with Isabella when we meet, thank you for bringing that up."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's make sure we cover all bases to ensure everyone has a fantastic time tomorrow. I appreciate your thoughtfulness in considering Isabella's needs as well."
+        ],
+        [
+          "Maria Lopez",
+          "I'll discuss the accommodations and dietary restrictions with Isabella tonight and make sure everything is taken care of for her."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would also be a good idea to check if Isabella needs any support or assistance during the activities we have planned. We want to make sure she feels comfortable and included."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:36:10"
+  }
+}

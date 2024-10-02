@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about bringing snacks, games, soccer balls, frisbees, blankets, volleyball, music, board games, and water bottles for their friends' night out at the park entrance as discussed by Isabella Rodriguez and Klaus Mueller. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how was dinner? I hope you're ready for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, dinner was great! I'm definitely excited for our friends' night out. Did you finish locking up the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear! Yes, everything is locked up and ready for our night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Perfect, let's head to the park entrance to meet Maria and start our friends night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's go meet Maria and kick off our night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we bring the snacks and games for our friends' night out as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's grab the snacks and games for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring the soccer balls and frisbees for the outdoor games?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's grab the snacks and games for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's make sure we have everything we need for a fantastic night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some blankets in case it gets cold later on."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring the volleyball for the outdoor games?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring the volleyball for the outdoor games."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea! Let's make sure to pack some extra water bottles too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some music for the night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring some board games for a fun addition to our night out?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting with Isabella and Klaus at Hobbs Cafe to create an itinerary for their friends night out (on the way to discussing potential activities for their friends night out) (discussing potential activities for their friends night out with Isabella and Klaus) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about bringing snacks, games, soccer balls, frisbees, blankets, volleyball, music, board games, and water bottles for their friends' night out at the park entrance as discussed by Isabella Rodriguez and Klaus Mueller. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how was dinner? I hope you're ready for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, dinner was great! I'm definitely excited for our friends' night out. Did you finish locking up the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear! Yes, everything is locked up and ready for our night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Perfect, let's head to the park entrance to meet Maria and start our friends night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's go meet Maria and kick off our night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we bring the snacks and games for our friends' night out as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's grab the snacks and games for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring the soccer balls and frisbees for the outdoor games?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's grab the snacks and games for our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's make sure we have everything we need for a fantastic night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some blankets in case it gets cold later on."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring the volleyball for the outdoor games?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring the volleyball for the outdoor games."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea! Let's make sure to pack some extra water bottles too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also bring some music for the night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also bring some board games for a fun addition to our night out?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:32:40"
+  }
+}

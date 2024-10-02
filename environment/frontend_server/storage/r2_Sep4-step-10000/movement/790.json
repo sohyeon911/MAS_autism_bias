@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the final details and preparations for their friends' night out, including dinner at Hobbs Cafe, a bonfire in the park with games, snacks, drinks, music, marshmallows for roasting, bug spray, blankets, and seating arrangements for everyone. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you made it tonight. Have you had a chance to think about what we should do tomorrow for our friends' night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I was thinking we could start with dinner at Hobbs Cafe, then maybe head to the park for a bonfire and some games. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great plan, Klaus! I'll make sure to set everything up for dinner at Hobbs Cafe and bring some games for the park as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help setting up for tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, that would be great. Let's finalize the details now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll bring some snacks and drinks for the bonfire. Let's make sure we have everything we need for a fun night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan some activities for the park to make sure everyone has a fun time!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring some music for the bonfire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, music would be a great idea! Let's make a playlist of our favorite songs to play by the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring some marshmallows and sticks for roasting by the bonfire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea, Klaus! Let's make sure to bring marshmallows and sticks for roasting by the bonfire. I'll also bring some blankets for everyone to sit on."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also bring some bug spray to keep the mosquitoes away by the bonfire."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea about the bug spray, Klaus! Let's make sure to bring that along with us tomorrow night."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else we need to finalize before tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We just need to make sure we have enough seating for everyone at the park. I'll take care of that. Thank you for all your help, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Isabella! Thanks for taking care of the seating. I'm looking forward to tomorrow night's friends' night out!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        56
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "completing tasks and paperwork at the supply store (checking inventory levels and making a list of items that need to be restocked) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the final details and preparations for their friends' night out, including dinner at Hobbs Cafe, a bonfire in the park with games, snacks, drinks, music, marshmallows for roasting, bug spray, blankets, and seating arrangements for everyone. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you made it tonight. Have you had a chance to think about what we should do tomorrow for our friends' night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I was thinking we could start with dinner at Hobbs Cafe, then maybe head to the park for a bonfire and some games. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great plan, Klaus! I'll make sure to set everything up for dinner at Hobbs Cafe and bring some games for the park as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you need any help setting up for tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, that would be great. Let's finalize the details now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll bring some snacks and drinks for the bonfire. Let's make sure we have everything we need for a fun night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan some activities for the park to make sure everyone has a fun time!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring some music for the bonfire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, music would be a great idea! Let's make a playlist of our favorite songs to play by the bonfire."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring some marshmallows and sticks for roasting by the bonfire?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea, Klaus! Let's make sure to bring marshmallows and sticks for roasting by the bonfire. I'll also bring some blankets for everyone to sit on."
+        ],
+        [
+          "Klaus Mueller",
+          "I can also bring some bug spray to keep the mosquitoes away by the bonfire."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea about the bug spray, Klaus! Let's make sure to bring that along with us tomorrow night."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else we need to finalize before tomorrow night?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We just need to make sure we have enough seating for everyone at the park. I'll take care of that. Thank you for all your help, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Isabella! Thanks for taking care of the seating. I'm looking forward to tomorrow night's friends' night out!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:41:40"
+  }
+}

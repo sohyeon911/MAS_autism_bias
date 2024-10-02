@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the planning and preparation for a community recreational event, with Isabella Rodriguez and Maria Lopez discussing coordinating with Klaus for the event structure and activities before their 7pm meeting. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How's the planning for the community recreational event going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! It's going well, Klaus and I have some exciting ideas for the event. By the way, have you heard from Klaus about discussing the event structure and activities over the phone before our meeting at 7pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't heard from Klaus yet, but I'll check in with him right after we finish up here. I'm looking forward to our meeting at 7pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll give Klaus a call now to discuss the event structure and activities before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll get in touch with Klaus after we're done here to coordinate the details."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go ahead and give Klaus a call now to discuss the event structure and activities. Let's make sure we're all on the same page before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds like a plan! Let's make sure everything is all set for our meeting at 7pm. I'll catch up with Klaus after we're done here."
+        ],
+        [
+          "Maria Lopez",
+          "I'll give Klaus a call now to discuss the event structure and activities. Let's make sure we're all on the same page before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure we have all the documents and materials prepared for the meeting too."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have all the documents and materials prepared for the meeting too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's coordinate the details and finalize the plans before our meeting tonight at 7pm."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go over the schedule to ensure we have everything in place for the event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go over the schedule to ensure we have everything in place for the event."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the planning and preparation for a community recreational event, with Isabella Rodriguez and Maria Lopez discussing coordinating with Klaus for the event structure and activities before their 7pm meeting. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How's the planning for the community recreational event going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! It's going well, Klaus and I have some exciting ideas for the event. By the way, have you heard from Klaus about discussing the event structure and activities over the phone before our meeting at 7pm?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't heard from Klaus yet, but I'll check in with him right after we finish up here. I'm looking forward to our meeting at 7pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll give Klaus a call now to discuss the event structure and activities before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll get in touch with Klaus after we're done here to coordinate the details."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go ahead and give Klaus a call now to discuss the event structure and activities. Let's make sure we're all on the same page before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds like a plan! Let's make sure everything is all set for our meeting at 7pm. I'll catch up with Klaus after we're done here."
+        ],
+        [
+          "Maria Lopez",
+          "I'll give Klaus a call now to discuss the event structure and activities. Let's make sure we're all on the same page before our meeting at 7pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure we have all the documents and materials prepared for the meeting too."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have all the documents and materials prepared for the meeting too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's coordinate the details and finalize the plans before our meeting tonight at 7pm."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go over the schedule to ensure we have everything in place for the event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go over the schedule to ensure we have everything in place for the event."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "enjoying dinner at Hobbs Cafe with Isabella and Maria (looking at the menu and deciding what to order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:36:20"
+  }
+}

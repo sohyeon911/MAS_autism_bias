@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        83,
+        52
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "watching a romantic comedy movie with her family (preparing snacks for the movie) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "wrapping up the meeting and saying goodbye to Isabella and Klaus, making any final adjustments to the itinerary (on the way to discussing the final details of the itinerary with Isabella and Klaus) (discussing the final details of the itinerary with Isabella and Klaus) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "finalizing plans for friends night out and making reservations (on the way to discussing potential activities with Isabella and Maria) (checking his schedule to ensure he has enough time to plan with Isabella and Maria) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:13:20"
+  }
+}

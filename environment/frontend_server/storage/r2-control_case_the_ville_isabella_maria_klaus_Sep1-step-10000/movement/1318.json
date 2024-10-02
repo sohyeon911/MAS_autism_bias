@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "finalizing plans for the friends' night out with Klaus and Maria @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        58,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the details for tomorrow's friends night out, including snacks, decorations, games, activities, music, bonfire setup, food, drinks, seating arrangements, and checking the weather forecast, between Maria Lopez and Klaus Mueller @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed you're heading out. Before you go, can we quickly go over the final activity details for tomorrow's friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Maria. Let's go over the final activity details together."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have all the snacks and decorations sorted out for tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria. I'll double-check the weather forecast to ensure everything goes smoothly for tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also confirm the specific games and activities with Isabella before finalizing everything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's reach out to Isabella now to confirm the specific games and activities for tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also discuss the music and bonfire setup for tomorrow. I think that would be a great addition to our friends night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria! I'll get in touch with Isabella about the games and activities. And I'll also discuss the music and bonfire setup with her. We're on track for a fantastic friends night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, Klaus! Thanks for being on top of things. Let's meet again in the morning to finalize any remaining details."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, Maria! I'll also check in with Isabella about the food and drinks for tomorrow. We want to make sure everyone has a great time at our friends night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also make sure we have enough seating arranged for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Maria, I'll take care of arranging the seating for tomorrow's friends night out as well. See you in the morning to finalize everything!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate your help in making tomorrow's friends night out a success. See you in the morning to finalize everything."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        59,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the details for tomorrow's friends night out, including snacks, decorations, games, activities, music, bonfire setup, food, drinks, seating arrangements, and checking the weather forecast, between Maria Lopez and Klaus Mueller @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed you're heading out. Before you go, can we quickly go over the final activity details for tomorrow's friends night out?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Maria. Let's go over the final activity details together."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have all the snacks and decorations sorted out for tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria. I'll double-check the weather forecast to ensure everything goes smoothly for tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also confirm the specific games and activities with Isabella before finalizing everything?"
+        ],
+        [
+          "Klaus Mueller",
+          "Let's reach out to Isabella now to confirm the specific games and activities for tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also discuss the music and bonfire setup for tomorrow. I think that would be a great addition to our friends night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria! I'll get in touch with Isabella about the games and activities. And I'll also discuss the music and bonfire setup with her. We're on track for a fantastic friends night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, Klaus! Thanks for being on top of things. Let's meet again in the morning to finalize any remaining details."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, Maria! I'll also check in with Isabella about the food and drinks for tomorrow. We want to make sure everyone has a great time at our friends night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also make sure we have enough seating arranged for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Maria, I'll take care of arranging the seating for tomorrow's friends night out as well. See you in the morning to finalize everything!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I appreciate your help in making tomorrow's friends night out a success. See you in the morning to finalize everything."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:09:40"
+  }
+}

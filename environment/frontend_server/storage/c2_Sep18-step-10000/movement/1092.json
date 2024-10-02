@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "catching up with her friends Maria and Klaus at Hobbs Cafe (greeting Maria and Klaus as they arrive at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing the logistics and accommodations for a mini treasure hunt they plan to organize at the park, including checking with Isabella for any specific needs and confirming the meeting time, as well as finalizing details for a karaoke night and dinner arrangements. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I wanted to discuss the surprise activity we planned for the park. Do you think we should bring some board games or maybe organize a mini treasure hunt?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I think a mini treasure hunt would be a great idea! It's interactive and fun for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'll start working on a plan for the treasure hunt and coordinate with Isabella for any additional supplies we might need."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider any specific accommodations for Isabella during the treasure hunt?"
+        ],
+        [
+          "Maria Lopez",
+          "I think it would be a good idea to check with Isabella beforehand to see if there are any accommodations she might need during the treasure hunt."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to check with Isabella and confirm any accommodations she might need for the treasure hunt."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's finalize the details for the karaoke night at Harmony Karaoke Bar as well."
+        ],
+        [
+          "Maria Lopez",
+          "Should we discuss any dietary restrictions or preferences for the dinner at the new Italian place downtown?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely check with Isabella about her dietary restrictions and preferences for dinner."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure we have everything prepared for Isabella to feel comfortable and included during the treasure hunt."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also discuss the logistics for the karaoke night at Harmony Karaoke Bar. Should we confirm the reservations and any specific arrangements we need to make?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have everything prepared for Isabella to feel comfortable and included during the treasure hunt."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make a checklist of all the supplies we need for the treasure hunt and ensure we have everything ready."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing the logistics and accommodations for a mini treasure hunt they plan to organize at the park, including checking with Isabella for any specific needs and confirming the meeting time, as well as finalizing details for a karaoke night and dinner arrangements. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I wanted to discuss the surprise activity we planned for the park. Do you think we should bring some board games or maybe organize a mini treasure hunt?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I think a mini treasure hunt would be a great idea! It's interactive and fun for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'll start working on a plan for the treasure hunt and coordinate with Isabella for any additional supplies we might need."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider any specific accommodations for Isabella during the treasure hunt?"
+        ],
+        [
+          "Maria Lopez",
+          "I think it would be a good idea to check with Isabella beforehand to see if there are any accommodations she might need during the treasure hunt."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to check with Isabella and confirm any accommodations she might need for the treasure hunt."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's finalize the details for the karaoke night at Harmony Karaoke Bar as well."
+        ],
+        [
+          "Maria Lopez",
+          "Should we discuss any dietary restrictions or preferences for the dinner at the new Italian place downtown?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely check with Isabella about her dietary restrictions and preferences for dinner."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure we have everything prepared for Isabella to feel comfortable and included during the treasure hunt."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm the meeting time at the park for tomorrow to ensure everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also discuss the logistics for the karaoke night at Harmony Karaoke Bar. Should we confirm the reservations and any specific arrangements we need to make?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we have everything prepared for Isabella to feel comfortable and included during the treasure hunt."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make a checklist of all the supplies we need for the treasure hunt and ensure we have everything ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:32:00"
+  }
+}

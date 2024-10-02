@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are planning a friends' night out with dinner at a sushi place followed by games at the arcade, finalizing details to meet at Hobbs Cafe at 6pm. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm so excited for our friends' night out tomorrow. Do you have any ideas for what we could do?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I was thinking we could start off with dinner at that sushi place you mentioned and then maybe head over to the arcade for some fun games. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great plan, Klaus! I'm sure Maria will love it too. Let's finalize the details and set up a time to meet tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet here at Hobbs Cafe at 6pm to kick off the evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect, I'll let Maria know the plan and see you both tomorrow at 6pm!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "meeting with Isabella and Klaus at Hobbs Cafe to plan the itinerary for tomorrow's friends night out (on the way to discussing potential activities for the night out with Isabella and Klaus) (reviewing her notes on potential activities for the night out) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are planning a friends' night out with dinner at a sushi place followed by games at the arcade, finalizing details to meet at Hobbs Cafe at 6pm. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm so excited for our friends' night out tomorrow. Do you have any ideas for what we could do?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I was thinking we could start off with dinner at that sushi place you mentioned and then maybe head over to the arcade for some fun games. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great plan, Klaus! I'm sure Maria will love it too. Let's finalize the details and set up a time to meet tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's meet here at Hobbs Cafe at 6pm to kick off the evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect, I'll let Maria know the plan and see you both tomorrow at 6pm!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:54:20"
+  }
+}

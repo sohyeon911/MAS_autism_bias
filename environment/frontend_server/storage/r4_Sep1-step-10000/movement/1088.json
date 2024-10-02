@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "still enjoying a friend's night out with Klaus and Maria, following the itinerary they planned earlier (checking in with Klaus and Maria to make sure they are having a good time) (checking in with Klaus and Maria to see if they need anything) @ the Ville:Ryan Park's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "leaving Hobbs Cafe and heading home (saying goodbye to Isabella and Klaus) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        31,
+        50
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "attending a yoga class at the park (on the way to changing into his workout clothes) (walking to his car) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:31:20"
+  }
+}

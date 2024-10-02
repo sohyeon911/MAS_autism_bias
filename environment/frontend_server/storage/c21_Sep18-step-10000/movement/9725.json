@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf63\ud83c\udfae",
+      "description": "greeting customers and taking orders (conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, including dinner at a sushi place, going to the arcade for games, stopping by the gelato place for dessert, bringing board games and snacks, arranging transportation, confirming reservations, and checking in with Klaus for tomorrow's outing.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a fun night out with activities such as sushi dinner, arcade games, gelato dessert, board games at Hobbs Cafe, arranging transportation, bringing extra snacks, checking dietary restrictions, confirming timings, and ensuring Isabella is comfortable with the plans. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, I heard you were discussing potential activities for after dinner with Isabella and me. I'm excited to see what you have planned!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was thinking we could start with sushi dinner, head to an arcade for some games, grab dessert at a gelato place, and then meet at Hobbs Cafe for some board games and snacks. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I can't wait to play some games at the arcade and enjoy dessert at the gelato place. Count me in for all the fun activities!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make a note of that and confirm everything with Isabella. Looking forward to our fun night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also make sure to arrange transportation for our night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's organize transportation for our night out. I'll take care of that and confirm with Isabella as well. Thanks for bringing it up, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll bring some extra snacks for our planning session at Hobbs Cafe, just in case."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for suggesting the extra snacks, Klaus! I really appreciate your thoughtfulness."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also double-check with Isabella about her dietary restrictions to ensure we have everything covered."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea, Klaus! I'll reach out to Isabella to confirm her dietary restrictions and make sure we have everything prepared for our night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific time set for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "We have planned to meet at Kabuki Sushi at 6:30 pm for dinner and then head to the arcade. Afterward, we will meet at Hobbs Cafe at 7 pm for board games and snacks. Does that work for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a perfect plan, Maria! I'm looking forward to our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella to confirm the reservations and let her know about the plan."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also check in with Isabella about how she is feeling about our plans?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's double-check with Isabella to ensure she is on board with our plans and feeling comfortable about everything."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a fun night out with activities such as sushi dinner, arcade games, gelato dessert, board games at Hobbs Cafe, arranging transportation, bringing extra snacks, checking dietary restrictions, confirming timings, and ensuring Isabella is comfortable with the plans. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, I heard you were discussing potential activities for after dinner with Isabella and me. I'm excited to see what you have planned!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was thinking we could start with sushi dinner, head to an arcade for some games, grab dessert at a gelato place, and then meet at Hobbs Cafe for some board games and snacks. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I can't wait to play some games at the arcade and enjoy dessert at the gelato place. Count me in for all the fun activities!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make a note of that and confirm everything with Isabella. Looking forward to our fun night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also make sure to arrange transportation for our night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's organize transportation for our night out. I'll take care of that and confirm with Isabella as well. Thanks for bringing it up, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll bring some extra snacks for our planning session at Hobbs Cafe, just in case."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for suggesting the extra snacks, Klaus! I really appreciate your thoughtfulness."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also double-check with Isabella about her dietary restrictions to ensure we have everything covered."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea, Klaus! I'll reach out to Isabella to confirm her dietary restrictions and make sure we have everything prepared for our night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific time set for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "We have planned to meet at Kabuki Sushi at 6:30 pm for dinner and then head to the arcade. Afterward, we will meet at Hobbs Cafe at 7 pm for board games and snacks. Does that work for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a perfect plan, Maria! I'm looking forward to our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella to confirm the reservations and let her know about the plan."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also check in with Isabella about how she is feeling about our plans?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's double-check with Isabella to ensure she is on board with our plans and feeling comfortable about everything."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 21:30:50"
+  }
+}

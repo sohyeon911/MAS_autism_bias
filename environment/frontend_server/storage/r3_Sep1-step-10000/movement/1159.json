@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        26
+      ],
+      "pronunciatio": "\ud83c\udf79",
+      "description": "enjoying drinks and chatting with Klaus and Maria at a bar (ordering drinks for herself and her friends) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the games, activities, snacks, drinks, and music arrangements for tomorrow's friends night out between Klaus Mueller and Maria Lopez @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, have you had a chance to finalize the list of games and activities for tomorrow's friends night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I have finalized the list of games and activities for tomorrow. We'll have frisbee, soccer, a scavenger hunt, and some board games. I've also arranged for snacks and drinks. It's going to be a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! Thank you for taking care of all the arrangements. I'm excited for tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'm glad you're excited. Is there anything else you think we should add to make it even more enjoyable?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about adding some music to the mix? I can bring my portable speaker for some tunes."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! Music will definitely liven up the atmosphere. Thank you for offering to bring your portable speaker."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring the speaker tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks Klaus, that sounds like a perfect addition to our plans. Looking forward to enjoying the music with everyone tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we coordinate with Isabella on the food arrangements as well?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's check with Isabella on the food arrangements. I'll coordinate with her to ensure we have a variety of snacks and drinks for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the meeting point and time, so everyone knows where to gather tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also decide on a backup plan in case of bad weather?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, a backup plan in case of bad weather is a good idea. Let's discuss that as well."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing the games, activities, snacks, drinks, and music arrangements for tomorrow's friends night out between Klaus Mueller and Maria Lopez @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, have you had a chance to finalize the list of games and activities for tomorrow's friends night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I have finalized the list of games and activities for tomorrow. We'll have frisbee, soccer, a scavenger hunt, and some board games. I've also arranged for snacks and drinks. It's going to be a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! Thank you for taking care of all the arrangements. I'm excited for tomorrow's event."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus! I'm glad you're excited. Is there anything else you think we should add to make it even more enjoyable?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about adding some music to the mix? I can bring my portable speaker for some tunes."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! Music will definitely liven up the atmosphere. Thank you for offering to bring your portable speaker."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring the speaker tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks Klaus, that sounds like a perfect addition to our plans. Looking forward to enjoying the music with everyone tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we coordinate with Isabella on the food arrangements as well?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's check with Isabella on the food arrangements. I'll coordinate with her to ensure we have a variety of snacks and drinks for everyone."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the meeting point and time, so everyone knows where to gather tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the meeting point and time now. I'll talk to Isabella and confirm with her."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also decide on a backup plan in case of bad weather?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, a backup plan in case of bad weather is a good idea. Let's discuss that as well."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:43:10"
+  }
+}

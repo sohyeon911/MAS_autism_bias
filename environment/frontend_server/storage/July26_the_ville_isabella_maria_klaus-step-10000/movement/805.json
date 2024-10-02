@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are catching up on a meal at a new place, discussing event planning details for tomorrow's event and Klaus offering to help with setup, with Isabella appreciating the offer and confirming their meeting at 7pm to finalize everything. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here! How's your meal so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, my meal is great, thanks for asking! How about yours?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm enjoying my meal as well, thank you!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we found this new place, the food here is fantastic!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, this place has a great ambiance too. How have you been recently?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been doing well, thanks for asking! How about you? How are things going with the event planning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that you've been doing well! Things with the event planning are going smoothly. We've finalized the structure and activities. Maria and I appreciate your input"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'm looking forward to tomorrow's event. Do you need any help with the setup?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help with the setup, Klaus! We've got everything covered, but I really appreciate your willingness to assist. I'm glad you're looking forward to the event!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really excited for tomorrow's event. It's always a pleasure working with you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We are meeting up at 7pm tomorrow to go over the final details. Will you be able to make it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I will definitely be there at 7pm tomorrow to go over the final details with you and Maria. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad you'll be able to join us tomorrow at 7pm. Looking forward to finalizing everything together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with for tomorrow's event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus, I appreciate your willingness to help. We are all set for tomorrow's event, but I'm grateful for your offer!"
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you, Isabella. Let's keep in touch and plan more community events in the future!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        98,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "reading before going to sleep (on the way to reading before going to slee) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are catching up on a meal at a new place, discussing event planning details for tomorrow's event and Klaus offering to help with setup, with Isabella appreciating the offer and confirming their meeting at 7pm to finalize everything. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here! How's your meal so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, my meal is great, thanks for asking! How about yours?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm enjoying my meal as well, thank you!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we found this new place, the food here is fantastic!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, this place has a great ambiance too. How have you been recently?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been doing well, thanks for asking! How about you? How are things going with the event planning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that you've been doing well! Things with the event planning are going smoothly. We've finalized the structure and activities. Maria and I appreciate your input"
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'm looking forward to tomorrow's event. Do you need any help with the setup?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help with the setup, Klaus! We've got everything covered, but I really appreciate your willingness to assist. I'm glad you're looking forward to the event!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really excited for tomorrow's event. It's always a pleasure working with you and Maria."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We are meeting up at 7pm tomorrow to go over the final details. Will you be able to make it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I will definitely be there at 7pm tomorrow to go over the final details with you and Maria. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad you'll be able to join us tomorrow at 7pm. Looking forward to finalizing everything together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with for tomorrow's event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus, I appreciate your willingness to help. We are all set for tomorrow's event, but I'm grateful for your offer!"
+        ],
+        [
+          "Klaus Mueller",
+          "It was great catching up with you, Isabella. Let's keep in touch and plan more community events in the future!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:44:10"
+  }
+}

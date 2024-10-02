@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udfea\ud83c\udf89",
+      "description": "closing up the cafe and getting ready for friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing and planning activities for tomorrow's friends night out at Hobbs Cafe, including icebreaker games, team-building activities, a group photo, and potentially a musical performance or karaoke session, as well as considering snacks or refreshments for the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you today? What have you been up to at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I've been busy organizing activities at the park. We have a lot planned for tomorrow's friends night out at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm actually heading to Hobbs Cafe right now to meet Isabella and work on the itinerary for tomorrow's friends night out. Would you like to join us and share some ideas?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'd love to join you and Isabella at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's head over to Hobbs Cafe together and start brainstorming ideas for the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we grab a table inside or sit in the patio?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab a table inside, it might be more comfortable for planning."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll just quickly freshen up in my dorm room and meet you at Hobbs Cafe in 10 minutes."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, I'll see you there in 10 minutes."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you already have any specific ideas in mind for the itinerary, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start with a fun icebreaker game to get everyone engaged right from the start. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! We can also incorporate some team-building activities to foster a sense of camaraderie among the attendees."
+        ],
+        [
+          "Maria Lopez",
+          "I think we should also plan some time for a group photo to capture the memories of tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider having a small musical performance or a karaoke session as part of the itinerary? It could be a fun way to involve everyone and showcase their talents."
+        ],
+        [
+          "Maria Lopez",
+          "I think incorporating a musical performance or karaoke session is a great idea! It will definitely add a fun element to the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also plan some snacks or refreshments for tomorrow's friends night out?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing and planning activities for tomorrow's friends night out at Hobbs Cafe, including icebreaker games, team-building activities, a group photo, and potentially a musical performance or karaoke session, as well as considering snacks or refreshments for the event. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you today? What have you been up to at the park?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I've been busy organizing activities at the park. We have a lot planned for tomorrow's friends night out at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm actually heading to Hobbs Cafe right now to meet Isabella and work on the itinerary for tomorrow's friends night out. Would you like to join us and share some ideas?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'd love to join you and Isabella at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's head over to Hobbs Cafe together and start brainstorming ideas for the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we grab a table inside or sit in the patio?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab a table inside, it might be more comfortable for planning."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll just quickly freshen up in my dorm room and meet you at Hobbs Cafe in 10 minutes."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, I'll see you there in 10 minutes."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you already have any specific ideas in mind for the itinerary, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start with a fun icebreaker game to get everyone engaged right from the start. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! We can also incorporate some team-building activities to foster a sense of camaraderie among the attendees."
+        ],
+        [
+          "Maria Lopez",
+          "I think we should also plan some time for a group photo to capture the memories of tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider having a small musical performance or a karaoke session as part of the itinerary? It could be a fun way to involve everyone and showcase their talents."
+        ],
+        [
+          "Maria Lopez",
+          "I think incorporating a musical performance or karaoke session is a great idea! It will definitely add a fun element to the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also plan some snacks or refreshments for tomorrow's friends night out?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:35:10"
+  }
+}

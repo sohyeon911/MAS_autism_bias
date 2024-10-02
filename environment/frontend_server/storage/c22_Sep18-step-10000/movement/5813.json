@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        44
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends' night out, including activities such as stargazing with a telescope, bringing snacks, blankets, chairs, warm drinks, and coordinating to meet at an Italian restaurant before heading to the rooftop bar @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's nice to see you here at the supply store. How's your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day has been good so far, just getting ready to manage inventory and coordinate with suppliers. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a busy day ahead. I'm looking forward to our friends' night out later. Have you thought about what activity we should do after dinner?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I was thinking we could go for a walk in the park, listen to some music, and then stargaze with the telescope. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I love the thought of stargazing with the telescope. It will be a perfect way to end the evening."
+        ],
+        [
+          "Maria Lopez",
+          "It sure will be a night to remember! I'm looking forward to our time together tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I couldn't agree more! Let's make sure to bring some snacks for our stargazing session."
+        ],
+        [
+          "Maria Lopez",
+          "We should also bring some blankets for extra comfort while stargazing."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's meet at the Italian restaurant at 7:30 pm sharp so we can enjoy our dinner together before heading to the rooftop bar!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up the stargazing equipment? I can bring my telescope along."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That would be fantastic! Your telescope will definitely make stargazing more enjoyable. Thank you for offering to bring it along."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to pack the telescope and some snacks for our stargazing session tonight. Looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan on bringing some warm drinks to keep us cozy while stargazing."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some chairs for the stargazing session for added comfort?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, bringing some chairs for added comfort during stargazing sounds like a great idea! Let's make sure to pack those as well."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some snacks and drinks for the park walk?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        63,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends' night out, including activities such as stargazing with a telescope, bringing snacks, blankets, chairs, warm drinks, and coordinating to meet at an Italian restaurant before heading to the rooftop bar @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's nice to see you here at the supply store. How's your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day has been good so far, just getting ready to manage inventory and coordinate with suppliers. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a busy day ahead. I'm looking forward to our friends' night out later. Have you thought about what activity we should do after dinner?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I was thinking we could go for a walk in the park, listen to some music, and then stargaze with the telescope. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I love the thought of stargazing with the telescope. It will be a perfect way to end the evening."
+        ],
+        [
+          "Maria Lopez",
+          "It sure will be a night to remember! I'm looking forward to our time together tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I couldn't agree more! Let's make sure to bring some snacks for our stargazing session."
+        ],
+        [
+          "Maria Lopez",
+          "We should also bring some blankets for extra comfort while stargazing."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's meet at the Italian restaurant at 7:30 pm sharp so we can enjoy our dinner together before heading to the rooftop bar!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up the stargazing equipment? I can bring my telescope along."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That would be fantastic! Your telescope will definitely make stargazing more enjoyable. Thank you for offering to bring it along."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to pack the telescope and some snacks for our stargazing session tonight. Looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan on bringing some warm drinks to keep us cozy while stargazing."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some chairs for the stargazing session for added comfort?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, bringing some chairs for added comfort during stargazing sounds like a great idea! Let's make sure to pack those as well."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring some snacks and drinks for the park walk?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 10:38:50"
+  }
+}

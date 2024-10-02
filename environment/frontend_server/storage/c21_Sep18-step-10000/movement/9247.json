@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        64,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing potential activities for after dinner plans with Maria and Klaus (discussing potential activities for after dinner plans with Maria and Klaus) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having dinner with Klaus at Kabuki Sushi (reviewing the menu and deciding on what to order) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\u2615",
+      "description": "meeting Maria and Isabella at Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 20:11:10"
+  }
+}

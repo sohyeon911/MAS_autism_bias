@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "enjoying the friends' night out with Klaus and Maria, visiting different cafes and restaurants in the area (greeting Klaus and Maria at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        86,
+        52
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "reviewing and finalizing the itinerary for tomorrow's friends night out with Isabella and Klaus (reviewing the list of potential activities for the night) @ the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\udd58",
+      "description": "still having dinner with Isabella and Maria at Hobbs Cafe (ordering food and drinks for himself and his friends) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:46:30"
+  }
+}

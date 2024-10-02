@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        57,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "enjoying dinner with Maria and Klaus at a local restaurant (looking at the menu and deciding what to order) @ the Ville:The Rose and Crown Pub:pub:behind the bar counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        57,
+        23
+      ],
+      "pronunciatio": "\ud83d\udd7a",
+      "description": "discussing the itinerary with Isabella and Klaus (reviewing the list of potential activities for the friends night out) @ the Ville:The Rose and Crown Pub:pub:bar customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        48
+      ],
+      "pronunciatio": "\ud83c\udfde\ufe0f",
+      "description": "organizing activities at the park (on the way to organizing activities at the par) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:15:40"
+  }
+}

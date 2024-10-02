@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        68,
+        22
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "preparing for her friends' night out at 7:00 pm (conversing about planning a friends night out at the park, finalizing details for a karaoke bar visit at Harmony Karaoke Bar, discussing accommodations and preferences, and considering a surprise activity or theme for the night.) @ the Ville:Ryan Park's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        22
+      ],
+      "pronunciatio": "\ud83c\udfa4",
+      "description": "collaborating with Isabella and Klaus at Hobbs Cafe to create an itinerary for tomorrow's friends night out (conversing about planning a friends night out at the park, finalizing details for a karaoke bar visit at Harmony Karaoke Bar, discussing accommodations and preferences, and considering a surprise activity or theme for the night.) @ the Ville:Ryan Park's apartment:main room:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        34,
+        46
+      ],
+      "pronunciatio": "\ud83c\udfc3\u200d\u2642",
+      "description": "working as the community recreational coordinator at the park (on the way to working as the community recreational coordinator at the par) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:13:30"
+  }
+}

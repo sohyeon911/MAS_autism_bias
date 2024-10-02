@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans with Isabella and Maria to meet Klaus at the new Italian place downtown for dinner at 7pm, and inviting Klaus to Hobbs Cafe to confirm the rest of the night's activities. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm glad you made it. I was just discussing our plans for tomorrow with Klaus. What do you think about starting the night with dinner at that new Italian place downtown?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella. I think all of us will enjoy trying out the new place. What time were you thinking of meeting?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking we could meet at 7pm at the Italian place. Does that work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "That works perfectly for me, Isabella. I will make sure to be there at 7 pm. Do you want me to help with any other arrangements?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your willingness to help. Let's confirm the rest of the night's plan with Klaus and finalize everything before tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella. Let's also discuss the activities we want to plan for the night and confirm the final details with Klaus. I'll make sure everything is set for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's invite Klaus over to Hobbs Cafe to finalize our plans for tomorrow. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "I agree, Isabella. Let's call Klaus and invite him over to Hobbs Cafe to finalize our plans."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's give Klaus a call and invite him over to Hobbs Cafe now to finalize our plans for tomorrow. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's go ahead and give Klaus a call now to invite him over to Hobbs Cafe to finalize our plans for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's call Klaus together now and confirm the details for tomorrow night."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go ahead and give Klaus a call now to invite him over to Hobbs Cafe to finalize our plans for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's call Klaus together now and confirm the details for tomorrow night."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans with Isabella and Maria to meet Klaus at the new Italian place downtown for dinner at 7pm, and inviting Klaus to Hobbs Cafe to confirm the rest of the night's activities. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm glad you made it. I was just discussing our plans for tomorrow with Klaus. What do you think about starting the night with dinner at that new Italian place downtown?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella. I think all of us will enjoy trying out the new place. What time were you thinking of meeting?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking we could meet at 7pm at the Italian place. Does that work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "That works perfectly for me, Isabella. I will make sure to be there at 7 pm. Do you want me to help with any other arrangements?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I appreciate your willingness to help. Let's confirm the rest of the night's plan with Klaus and finalize everything before tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella. Let's also discuss the activities we want to plan for the night and confirm the final details with Klaus. I'll make sure everything is set for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's invite Klaus over to Hobbs Cafe to finalize our plans for tomorrow. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "I agree, Isabella. Let's call Klaus and invite him over to Hobbs Cafe to finalize our plans."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's give Klaus a call and invite him over to Hobbs Cafe now to finalize our plans for tomorrow. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's go ahead and give Klaus a call now to invite him over to Hobbs Cafe to finalize our plans for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's call Klaus together now and confirm the details for tomorrow night."
+        ],
+        [
+          "Maria Lopez",
+          "Let's go ahead and give Klaus a call now to invite him over to Hobbs Cafe to finalize our plans for tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's call Klaus together now and confirm the details for tomorrow night."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "working at the park (on the way to working at the par) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:39:00"
+  }
+}

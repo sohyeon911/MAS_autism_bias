@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning activities for the evening, including visiting the arcade, having dessert at the gelato place, bringing board games, arranging transportation, bringing snacks for the planning session at Hobbs Cafe, and ensuring Maria's dietary restrictions are accounted for. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you could join us. We were just discussing potential activities for after dinner plans. Do you have any suggestions?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I think a visit to the arcade for some games would be a fun idea. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I'm sure Maria would love that too. Let's plan to go to the arcade after dinner."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan to have dessert at the gelato place nearby?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to have dessert at the gelato place as well. It will be the perfect way to end the evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's finalize those plans then. What time should we aim to meet at the arcade after dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should aim to meet at the arcade around 8:30pm. That should give us enough time to enjoy our dessert at the gelato place as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! Let's make sure to bring some board games for extra fun at the arcade."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to arrange transportation for the evening. Would you be able to handle that, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "Definitely, I'll take care of arranging transportation for the evening. Thanks for reminding me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, thank you for taking care of the transportation, Klaus! I'm looking forward to a fantastic evening with both of you."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also ensure we have some snacks for our planning session at Hobbs Cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's make sure to bring some snacks for our planning session at Hobbs Cafe. That's a great idea, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also confirm Maria's preferences for the evening, just to make sure everything is set."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Your contributions to the planning are truly appreciated. I'm so excited for tomorrow night!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also double-check with Maria about her dietary restrictions to ensure we have everything covered for the evening."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "having dinner with Klaus at Kabuki Sushi (reviewing the menu and deciding on what to order) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning activities for the evening, including visiting the arcade, having dessert at the gelato place, bringing board games, arranging transportation, bringing snacks for the planning session at Hobbs Cafe, and ensuring Maria's dietary restrictions are accounted for. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you could join us. We were just discussing potential activities for after dinner plans. Do you have any suggestions?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I think a visit to the arcade for some games would be a fun idea. What do you think?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea! I'm sure Maria would love that too. Let's plan to go to the arcade after dinner."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also plan to have dessert at the gelato place nearby?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a fantastic idea! Let's definitely plan to have dessert at the gelato place as well. It will be the perfect way to end the evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's finalize those plans then. What time should we aim to meet at the arcade after dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should aim to meet at the arcade around 8:30pm. That should give us enough time to enjoy our dessert at the gelato place as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! Let's make sure to bring some board games for extra fun at the arcade."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to arrange transportation for the evening. Would you be able to handle that, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "Definitely, I'll take care of arranging transportation for the evening. Thanks for reminding me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, thank you for taking care of the transportation, Klaus! I'm looking forward to a fantastic evening with both of you."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also ensure we have some snacks for our planning session at Hobbs Cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's make sure to bring some snacks for our planning session at Hobbs Cafe. That's a great idea, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also confirm Maria's preferences for the evening, just to make sure everything is set."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Your contributions to the planning are truly appreciated. I'm so excited for tomorrow night!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also double-check with Maria about her dietary restrictions to ensure we have everything covered for the evening."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 20:17:40"
+  }
+}

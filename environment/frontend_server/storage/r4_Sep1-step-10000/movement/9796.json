@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "spending time with friends Klaus and Maria @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "enjoying a night out with Isabella and Klaus at Hobbs Cafe (arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        50
+      ],
+      "pronunciatio": "\ud83d\udec1\ud83d\udc57",
+      "description": "attending Friends Night Out at Hobbs Cafe (getting ready for the evening) (taking a shower and getting dressed) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 21:42:40"
+  }
+}

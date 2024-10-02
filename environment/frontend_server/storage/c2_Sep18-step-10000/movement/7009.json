@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        67,
+        52
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the meeting with suppliers, selecting new inventory options, and their plans for a friends' night out at Harmony Karaoke Bar. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's great to see you here. How's the meeting with the suppliers going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! The meeting with the suppliers went well. We're discussing some new inventory options for the store. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds exciting! Do you need any help with selecting the new inventory?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I think we're all set for now, but I'll keep you updated if we need any input from you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! If you need any help later on, feel free to reach out. By the way, I'm looking forward to our friends' night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great, Isabella! I'm really looking forward to it too. Everything is set for tomorrow, right?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, everything is all set for tomorrow. I'm really excited about our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad everything is organized and ready to go for tomorrow. I'm going to head back to work now, but I'll see you later tonight at Harmony Karaoke Bar."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have a great rest of your day, Maria! See you later at Harmony Karaoke Bar tonight."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        53
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the meeting with suppliers, selecting new inventory options, and their plans for a friends' night out at Harmony Karaoke Bar. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's great to see you here. How's the meeting with the suppliers going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! The meeting with the suppliers went well. We're discussing some new inventory options for the store. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds exciting! Do you need any help with selecting the new inventory?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I think we're all set for now, but I'll keep you updated if we need any input from you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! If you need any help later on, feel free to reach out. By the way, I'm looking forward to our friends' night out tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great, Isabella! I'm really looking forward to it too. Everything is set for tomorrow, right?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, everything is all set for tomorrow. I'm really excited about our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad everything is organized and ready to go for tomorrow. I'm going to head back to work now, but I'll see you later tonight at Harmony Karaoke Bar."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have a great rest of your day, Maria! See you later at Harmony Karaoke Bar tonight."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        34,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcc5",
+      "description": "still working on organizing park activities and maintenance (checking the schedule for upcoming park events) (checking the schedule for upcoming park events) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 13:58:10"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans for a friends' night out, including a picnic in the park, at Hobbs Cafe between Maria Lopez and Isabella Rodriguez @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, how's it going? Are you all set to close up for the day?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm almost done here. Just finishing up checking inventory and making a list of items that need to be restocked. How's everything going on your end?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for tonight? Klaus and I are meeting at Hobbs Cafe at 7 pm to finalize the itinerary for our friends night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great, Maria. I'll see you both at 7 pm to finalize the plans. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "We are thinking of adding a picnic in the park to the itinerary. Would you like to join us for that?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Maria! I would love to join you both for the picnic at the park."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring snacks, drinks, blankets, mats, and some games for the picnic. Let's discuss the details when we meet at the cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate you taking the lead on this. I'm excited for our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to create a checklist for the picnic items and divide up the tasks with Klaus to ensure everything is covered. See you at 7 pm at Hobbs Cafe!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll start closing up here and head to Hobbs Cafe for 7 pm. Looking forward to finalizing the plans with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "I'll also double-check with Klaus to make sure we have everything covered for the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to inform Klaus about the picnic plan as well so we can all be on the same page. See you at 7 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll finalize the details with Klaus and see you at 7 pm at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to check the closing procedures and head to Hobbs Cafe for 7 pm. Looking forward to finalizing the plans with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "I'll also check with Klaus to ensure the picnic details are finalized. See you at 7 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll have everything closed up here shortly and then head over to Hobbs Cafe. Looking forward to finalizing the plans with both of you!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about finalizing plans for a friends' night out, including a picnic in the park, at Hobbs Cafe between Maria Lopez and Isabella Rodriguez @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, how's it going? Are you all set to close up for the day?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm almost done here. Just finishing up checking inventory and making a list of items that need to be restocked. How's everything going on your end?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any plans for tonight? Klaus and I are meeting at Hobbs Cafe at 7 pm to finalize the itinerary for our friends night out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great, Maria. I'll see you both at 7 pm to finalize the plans. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "We are thinking of adding a picnic in the park to the itinerary. Would you like to join us for that?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Maria! I would love to join you both for the picnic at the park."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring snacks, drinks, blankets, mats, and some games for the picnic. Let's discuss the details when we meet at the cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate you taking the lead on this. I'm excited for our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to create a checklist for the picnic items and divide up the tasks with Klaus to ensure everything is covered. See you at 7 pm at Hobbs Cafe!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'll start closing up here and head to Hobbs Cafe for 7 pm. Looking forward to finalizing the plans with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "I'll also double-check with Klaus to make sure we have everything covered for the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to inform Klaus about the picnic plan as well so we can all be on the same page. See you at 7 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll finalize the details with Klaus and see you at 7 pm at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to check the closing procedures and head to Hobbs Cafe for 7 pm. Looking forward to finalizing the plans with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "I'll also check with Klaus to ensure the picnic details are finalized. See you at 7 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll have everything closed up here shortly and then head over to Hobbs Cafe. Looking forward to finalizing the plans with both of you!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "heading to Hobbs Cafe for the friends' night out (conversing about Maria Lopez and Klaus Mueller are discussing finalizing plans for a friends night out at Hobbs Cafe, including details of a picnic they want to incorporate in the itinerary, such as bringing snacks, drinks, blankets, mats, and games, and deciding on heading to the park around noon while creating a checklist to divide tasks.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 18:05:40"
+  }
+}

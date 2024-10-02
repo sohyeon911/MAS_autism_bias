@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        60,
+        43
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "still serving customers at Hobbs Cafe (on the way to greeting customers as they enter the cafe) (checking the inventory and restocking any items that are running low) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "organizing and restocking shelves (checking inventory levels) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "preparing and eating lunch (while continuing to discuss plans with Isabella and Maria) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 12:20:50"
+  }
+}

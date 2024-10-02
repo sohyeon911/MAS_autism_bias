@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing plans for their friends' night out, including what to wear, preferences for the art gallery visit, dining at an Italian restaurant, snacks and drinks for the concert in the park, and overall excitement for the upcoming event. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Isabella! I hope you're having a great time with your friends! Klaus and I were just discussing the plans for our friends' night out tomorrow. We're really looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! Yes, I'm really excited for tomorrow's friends' night out. It's going to be so much fun!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're excited! Have you thought about what you want to wear tomorrow? We want to make sure everyone feels comfortable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't thought about what to wear yet, but comfort is definitely a priority!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any preferences for the art gallery we're visiting tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I don't have any specific preferences for the art gallery, but I'm excited to see what they have on display."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll make sure to confirm the guided tour at the art gallery then. I'll let you know once everything is arranged."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! Thank you for taking care of the details. I'm sure it will be a fantastic night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to eat at the Italian restaurant we'll be dining at tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm open to trying new dishes at the restaurant, surprise me!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make reservations at the Italian restaurant for tomorrow. I'll ensure they have some surprise dishes for you to try!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate all the effort you're putting into planning this night out. It's going to be amazing!"
+        ],
+        [
+          "Maria Lopez",
+          "I also have some snacks and drinks prepared for the concert in the park. Is there anything specific you'd like to have?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I trust your choices, Maria. I'm sure everything will be perfect for our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that! I'll make sure everything is set for tomorrow night. Looking forward to spending time with everyone!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'm looking forward to tomorrow night. Let me know if you need any help with the preparations."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are discussing plans for their friends' night out, including what to wear, preferences for the art gallery visit, dining at an Italian restaurant, snacks and drinks for the concert in the park, and overall excitement for the upcoming event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hi Isabella! I hope you're having a great time with your friends! Klaus and I were just discussing the plans for our friends' night out tomorrow. We're really looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! Yes, I'm really excited for tomorrow's friends' night out. It's going to be so much fun!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're excited! Have you thought about what you want to wear tomorrow? We want to make sure everyone feels comfortable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't thought about what to wear yet, but comfort is definitely a priority!"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any preferences for the art gallery we're visiting tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I don't have any specific preferences for the art gallery, but I'm excited to see what they have on display."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll make sure to confirm the guided tour at the art gallery then. I'll let you know once everything is arranged."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! Thank you for taking care of the details. I'm sure it will be a fantastic night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to eat at the Italian restaurant we'll be dining at tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm open to trying new dishes at the restaurant, surprise me!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make reservations at the Italian restaurant for tomorrow. I'll ensure they have some surprise dishes for you to try!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate all the effort you're putting into planning this night out. It's going to be amazing!"
+        ],
+        [
+          "Maria Lopez",
+          "I also have some snacks and drinks prepared for the concert in the park. Is there anything specific you'd like to have?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I trust your choices, Maria. I'm sure everything will be perfect for our friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear that! I'll make sure everything is set for tomorrow night. Looking forward to spending time with everyone!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'm looking forward to tomorrow night. Let me know if you need any help with the preparations."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "meeting with Isabella and Maria at Hobbs Cafe to co-plan tomorrow's friends night out (on the way to greeting Isabella and Maria at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:07:40"
+  }
+}

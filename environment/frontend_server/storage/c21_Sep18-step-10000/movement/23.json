@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc6b",
+      "description": "meeting with Maria and Klaus to plan their friends' night out @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are finalizing plans for a friends night out, discussing dinner at a sushi place, arcade games, dessert options, meeting time, and meeting point for the next day. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was work today? Did you have any issues or challenges?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, work was great today! No major challenges, just the usual fun activities at the park. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Work at the supply store went smoothly today. No major issues to report."
+        ],
+        [
+          "Klaus Mueller",
+          "That's good to hear, Maria. I'm excited to plan tomorrow's friends night out with you and Isabella. Do you have any ideas for activities for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start the night with a casual dinner at that new sushi place downtown. Then maybe we can go to the arcade for some fun games. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I really like the idea of starting with dinner at the sushi place and then heading to the arcade for games. It's going to be a great night out. We should definitely finalize the details before we leave tonight."
+        ],
+        [
+          "Maria Lopez",
+          "We should definitely finalize the details before we leave tonight, I'll check with Isabella to see if she has any additional suggestions for activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan, Maria. Let's make sure we cover all the details and have a solid itinerary by the end of the night."
+        ],
+        [
+          "Maria Lopez",
+          "I'll check with Isabella to see if she has any additional suggestions for activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria! Let's make sure to include some time for dessert after dinner. Isabella might enjoy that."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go check with Isabella and see if she has any dessert preferences. We can include that in our plans as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I appreciate your input and collaboration on planning the event. Let's aim to have everything finalized before we leave tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go talk to Isabella about dessert options and finalize the rest of the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's also make sure to confirm the meeting time and meeting point for tomorrow before we head out tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go talk to Isabella about dessert options and finalize the rest of the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the meeting time and point for tomorrow before we leave tonight."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are finalizing plans for a friends night out, discussing dinner at a sushi place, arcade games, dessert options, meeting time, and meeting point for the next day. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was work today? Did you have any issues or challenges?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, work was great today! No major challenges, just the usual fun activities at the park. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Work at the supply store went smoothly today. No major issues to report."
+        ],
+        [
+          "Klaus Mueller",
+          "That's good to hear, Maria. I'm excited to plan tomorrow's friends night out with you and Isabella. Do you have any ideas for activities for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking we could start the night with a casual dinner at that new sushi place downtown. Then maybe we can go to the arcade for some fun games. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic plan, Maria! I really like the idea of starting with dinner at the sushi place and then heading to the arcade for games. It's going to be a great night out. We should definitely finalize the details before we leave tonight."
+        ],
+        [
+          "Maria Lopez",
+          "We should definitely finalize the details before we leave tonight, I'll check with Isabella to see if she has any additional suggestions for activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan, Maria. Let's make sure we cover all the details and have a solid itinerary by the end of the night."
+        ],
+        [
+          "Maria Lopez",
+          "I'll check with Isabella to see if she has any additional suggestions for activities as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria! Let's make sure to include some time for dessert after dinner. Isabella might enjoy that."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go check with Isabella and see if she has any dessert preferences. We can include that in our plans as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I appreciate your input and collaboration on planning the event. Let's aim to have everything finalized before we leave tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go talk to Isabella about dessert options and finalize the rest of the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's also make sure to confirm the meeting time and meeting point for tomorrow before we head out tonight."
+        ],
+        [
+          "Maria Lopez",
+          "I'll go talk to Isabella about dessert options and finalize the rest of the itinerary."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the meeting time and point for tomorrow before we leave tonight."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:33:50"
+  }
+}

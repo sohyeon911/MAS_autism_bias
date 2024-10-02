@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcca",
+      "description": "working at the counter at Hobbs Cafe (setting up the counter and making sure all supplies are stocked) (setting up the counter and making sure all supplies are stocked) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        87,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about their excitement for their friends' night out and finalizing plans for the evening. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day is going great so far, thanks for asking. I'm really looking forward to our friends' night out tonight. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! My day has been good too, thanks. I'm excited for our friends' night out as well. I've been finalizing the plans and making sure everything is set for a fun evening. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that everything is coming together smoothly. Is there anything else I can help with to ensure tonight goes off without a hitch?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for offering, Klaus. Everything seems to be going according to plan. Looking forward to a great evening with everyone!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about their excitement for their friends' night out and finalizing plans for the evening. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day is going great so far, thanks for asking. I'm really looking forward to our friends' night out tonight. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! My day has been good too, thanks. I'm excited for our friends' night out as well. I've been finalizing the plans and making sure everything is set for a fun evening. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that everything is coming together smoothly. Is there anything else I can help with to ensure tonight goes off without a hitch?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for offering, Klaus. Everything seems to be going according to plan. Looking forward to a great evening with everyone!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 12:43:40"
+  }
+}

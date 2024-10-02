@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "back at the counter, serving customers and taking orders (greeting customers and taking their orders) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        67,
+        46
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "finishing up her work at the supply store (checking inventory levels and making a list of items that need to be restocked) (checking the inventory levels for the store) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "still at work, but takes a break to have a quick coffee and planning session with Maria at Hobbs Cafe (checking his work schedule to make sure he has enough time for a break) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 15:09:10"
+  }
+}

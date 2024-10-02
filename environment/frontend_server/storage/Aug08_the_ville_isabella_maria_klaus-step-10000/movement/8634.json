@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are excitedly planning their night out, discussing outfits for the art gallery visit, coordinating transportation plans, confirming reservations at an Italian restaurant, and ensuring they have snacks and drinks for the concert in the park with Klaus. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm so excited for our night out tonight! Have you decided what you're going to wear for our visit to the art gallery?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm excited too! I was thinking of wearing that blue dress I showed you last time. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That blue dress is perfect for the art gallery! I'm going to wear my black dress with the floral pattern. It's comfortable and stylish."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great choice, Maria. I can't wait to see how elegant you'll look in that dress at the gallery. Shall we head over to the Italian restaurant after the art gallery visit?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's head over to the Italian restaurant after the art gallery. I'm looking forward to trying their delicious dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Maria. Let's make sure we have a reservation at the restaurant before we head over."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some snacks and drinks for the concert in the park. Is there anything specific you'd like?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! I'm looking forward to a fun and memorable evening with you and Klaus. Let's make sure we have everything ready for our night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'll check if Klaus is on his way. I want to make sure we don't miss the guided tour at the art gallery."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also finalize our transportation plans for the evening. I was thinking we could use a combination of Uber and walking to get around easily."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Klaus to see if he's on his way and double-check our reservation at the Italian restaurant. Should we meet at 7pm as planned?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's confirm the details with Klaus and make sure everything is set for our fun evening!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll send a quick message to Klaus to confirm his arrival time and transportation plans. I want to make sure we're all set for a fantastic evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure to coordinate our outfits for the art gallery visit and concert in the park. I want us to look coordinated and stylish for the evening."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm with Klaus about the snacks and drinks for the concert in the park. I want to make sure we have everything prepared."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also confirm with Klaus about the snacks and drinks for the concert in the park. I want to make sure we have everything prepared."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        62,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are excitedly planning their night out, discussing outfits for the art gallery visit, coordinating transportation plans, confirming reservations at an Italian restaurant, and ensuring they have snacks and drinks for the concert in the park with Klaus. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm so excited for our night out tonight! Have you decided what you're going to wear for our visit to the art gallery?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm excited too! I was thinking of wearing that blue dress I showed you last time. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That blue dress is perfect for the art gallery! I'm going to wear my black dress with the floral pattern. It's comfortable and stylish."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great choice, Maria. I can't wait to see how elegant you'll look in that dress at the gallery. Shall we head over to the Italian restaurant after the art gallery visit?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, let's head over to the Italian restaurant after the art gallery. I'm looking forward to trying their delicious dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Maria. Let's make sure we have a reservation at the restaurant before we head over."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some snacks and drinks for the concert in the park. Is there anything specific you'd like?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! I'm looking forward to a fun and memorable evening with you and Klaus. Let's make sure we have everything ready for our night out."
+        ],
+        [
+          "Maria Lopez",
+          "I'll check if Klaus is on his way. I want to make sure we don't miss the guided tour at the art gallery."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also finalize our transportation plans for the evening. I was thinking we could use a combination of Uber and walking to get around easily."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Klaus to see if he's on his way and double-check our reservation at the Italian restaurant. Should we meet at 7pm as planned?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's confirm the details with Klaus and make sure everything is set for our fun evening!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll send a quick message to Klaus to confirm his arrival time and transportation plans. I want to make sure we're all set for a fantastic evening!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure to coordinate our outfits for the art gallery visit and concert in the park. I want us to look coordinated and stylish for the evening."
+        ],
+        [
+          "Maria Lopez",
+          "Let's also confirm with Klaus about the snacks and drinks for the concert in the park. I want to make sure we have everything prepared."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also confirm with Klaus about the snacks and drinks for the concert in the park. I want to make sure we have everything prepared."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        24
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 18:29:00"
+  }
+}

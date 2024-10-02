@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\uddfa\ufe0f",
+      "description": "finishing up the plans for the friends' night out (finalizing the itinerary for the night) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        56
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading before going to sleep (choosing a book to read) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:blackboard",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        107,
+        50
+      ],
+      "pronunciatio": "\ud83d\udebf",
+      "description": "getting ready for bed and winding down for the night (taking a shower) @ the Ville:Dorm for Oak Hill College:man's bathroom:shower",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:59:10"
+  }
+}

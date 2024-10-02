@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, starting with dinner at a new Italian place at 7pm, followed by a park stroll and meeting back at the cafe, with Isabella bringing snacks and drinks for the park stroll. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking we could start off the night by grabbing dinner at that new Italian place down the street. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I've heard good things about that place. I'm sure everyone will enjoy it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make a reservation for us at 7pm, does that time work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for taking care of the reservation, Isabella. I appreciate it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, now we can plan what to do afterwards. Any ideas for activities?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we go for a stroll in the park? It's always a nice way to end the night."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lovely plan, Maria. I'll make sure to bring some snacks for our park stroll."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also bring some drinks for us to enjoy during the park stroll. Should we meet back at the cafe afterwards?"
+        ],
+        [
+          "Maria Lopez",
+          "We can meet at the cafe afterwards, that sounds like a perfect plan! I'm excited for our friends' night out, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, Maria! I'll see you at 7pm at the Italian place. Looking forward to a fun night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your efforts in planning this. Looking forward to a fun night out with you and Klaus!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Maria! It's going to be a fantastic night out."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you at 7pm at the Italian place."
+        ],
+        [
+          "Isabella Rodriguez",
+          "See you soon, Maria! Looking forward to a memorable night out with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to share the event details with Klaus before our friends' night out. See you at 7pm!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, starting with dinner at a new Italian place at 7pm, followed by a park stroll and meeting back at the cafe, with Isabella bringing snacks and drinks for the park stroll. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking we could start off the night by grabbing dinner at that new Italian place down the street. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I've heard good things about that place. I'm sure everyone will enjoy it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make a reservation for us at 7pm, does that time work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for taking care of the reservation, Isabella. I appreciate it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, now we can plan what to do afterwards. Any ideas for activities?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we go for a stroll in the park? It's always a nice way to end the night."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a lovely plan, Maria. I'll make sure to bring some snacks for our park stroll."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also bring some drinks for us to enjoy during the park stroll. Should we meet back at the cafe afterwards?"
+        ],
+        [
+          "Maria Lopez",
+          "We can meet at the cafe afterwards, that sounds like a perfect plan! I'm excited for our friends' night out, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Alright, Maria! I'll see you at 7pm at the Italian place. Looking forward to a fun night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your efforts in planning this. Looking forward to a fun night out with you and Klaus!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited, Maria! It's going to be a fantastic night out."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll see you at 7pm at the Italian place."
+        ],
+        [
+          "Isabella Rodriguez",
+          "See you soon, Maria! Looking forward to a memorable night out with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to share the event details with Klaus before our friends' night out. See you at 7pm!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf89",
+      "description": "planning tomorrow's friends night out with Isabella and Maria at Hobbs Cafe (discussing potential activities for the night out with Isabella and Maria) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:50:20"
+  }
+}

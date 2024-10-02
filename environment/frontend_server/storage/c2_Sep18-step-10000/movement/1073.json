@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends' night out which includes dinner at a new Italian place downtown, followed by a visit to a karaoke bar, a surprise activity at the park, a picnic with snacks, drinks, and games, bringing music, blankets, cushions, and planning to take photos, setting a time to meet at the park at 6:30 pm before heading to the karaoke bar, and confirming reservations at Harmony Karaoke Bar for tomorrow at 7pm, while ensuring inclusivity and consideration of any dietary restrictions or accommodations @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking we could start the night with some dinner at that new Italian place downtown before heading to the karaoke bar. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I'll check with Klaus to see if he's up for it. Thanks for suggesting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's finalize the details for tomorrow's friends' night out. I'll start setting up the surprise activity at the park, and we can meet there before heading to the karaoke bar."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Isabella! I'll also make sure to double-check any dietary restrictions or accommodations you may need for tomorrow. We want to make sure you're comfortable and included in all the activities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I really appreciate your thoughtfulness and consideration."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to do at the park before we head to the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking we could have a picnic at the park before heading to the karaoke bar. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a wonderful idea, Isabella! I'll make sure to bring some snacks and drinks for the picnic at the park. Let's also plan some fun games to play while we're there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to bring some music for the picnic. I'll bring my portable speaker!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring some blankets and cushions for us to sit on during the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan to take some photos at the park to capture the memories of our fun night out together!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also consider any specific timeframes for each activity to make sure we have enough time for everything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan for a designated time to meet at the park before heading to the karaoke bar. What time works best for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we aim to meet at the park around 6:30 pm tomorrow before heading to the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea, Maria! Let's confirm with Klaus and finalize the plans for tomorrow's friends' night out. I'll see you at the park at 6:30 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also coordinate with Klaus to confirm the reservation at Harmony Karaoke Bar for tomorrow at 7pm and double-check if there are any specific preferences or needs he may have for the night out."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning a friends' night out which includes dinner at a new Italian place downtown, followed by a visit to a karaoke bar, a surprise activity at the park, a picnic with snacks, drinks, and games, bringing music, blankets, cushions, and planning to take photos, setting a time to meet at the park at 6:30 pm before heading to the karaoke bar, and confirming reservations at Harmony Karaoke Bar for tomorrow at 7pm, while ensuring inclusivity and consideration of any dietary restrictions or accommodations @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I was thinking we could start the night with some dinner at that new Italian place downtown before heading to the karaoke bar. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I'll check with Klaus to see if he's up for it. Thanks for suggesting!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's finalize the details for tomorrow's friends' night out. I'll start setting up the surprise activity at the park, and we can meet there before heading to the karaoke bar."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Isabella! I'll also make sure to double-check any dietary restrictions or accommodations you may need for tomorrow. We want to make sure you're comfortable and included in all the activities."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I really appreciate your thoughtfulness and consideration."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you'd like to do at the park before we head to the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking we could have a picnic at the park before heading to the karaoke bar. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a wonderful idea, Isabella! I'll make sure to bring some snacks and drinks for the picnic at the park. Let's also plan some fun games to play while we're there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to bring some music for the picnic. I'll bring my portable speaker!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring some blankets and cushions for us to sit on during the picnic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also plan to take some photos at the park to capture the memories of our fun night out together!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also consider any specific timeframes for each activity to make sure we have enough time for everything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also plan for a designated time to meet at the park before heading to the karaoke bar. What time works best for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we aim to meet at the park around 6:30 pm tomorrow before heading to the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great idea, Maria! Let's confirm with Klaus and finalize the plans for tomorrow's friends' night out. I'll see you at the park at 6:30 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also coordinate with Klaus to confirm the reservation at Harmony Karaoke Bar for tomorrow at 7pm and double-check if there are any specific preferences or needs he may have for the night out."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcc6",
+      "description": "finalizing plans and discussing logistics for tomorrow's friends night out at Hobbs Cafe. @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 21:28:50"
+  }
+}

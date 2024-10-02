@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        34,
+        42
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller planning to meet at Hobbs Cafe before heading to Harmony Karaoke Bar for a friends' night out with Maria, discussing details and accommodations for the karaoke night. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I didn't expect to see you here! How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm doing well! I'm actually here planning for tomorrow's friends night out with Maria. We're coming up with a fun itinerary for everyone. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's so great to hear! I'm also planning for tomorrow's friends' night out with Maria. We're finalizing details for a karaoke bar visit at Harmony Karaoke Bar. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a lot of fun! I'd love to join you two at the karaoke bar."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! We can meet at Hobbs Cafe at 6pm before heading to Harmony Karaoke Bar."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for inviting me, Isabella! I'm looking forward to it. Shall we discuss any accommodations or dietary restrictions you might have for the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, I appreciate your consideration. I don't have any dietary restrictions, but I'll make sure to confirm with Maria just in case. Looking forward to having you join us!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Isabella! I'll see you at Hobbs Cafe at 6 pm. Looking forward to the karaoke night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "See you tomorrow at 6pm at Hobbs Cafe, Klaus! Looking forward to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Take care, Isabella, see you tomorrow!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "continuing to collaborate with Isabella and Klaus at Hobbs Cafe to finalize the itinerary and make any necessary arrangements for tomorrow's friends night out. (discussing potential activities for the night out with Isabella and Klaus) (discussing potential activities for the night out with Isabella and Klaus) (discussing potential activities for the night out with Isabella and Klaus) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        32,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller planning to meet at Hobbs Cafe before heading to Harmony Karaoke Bar for a friends' night out with Maria, discussing details and accommodations for the karaoke night. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I didn't expect to see you here! How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm doing well! I'm actually here planning for tomorrow's friends night out with Maria. We're coming up with a fun itinerary for everyone. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's so great to hear! I'm also planning for tomorrow's friends' night out with Maria. We're finalizing details for a karaoke bar visit at Harmony Karaoke Bar. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a lot of fun! I'd love to join you two at the karaoke bar."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! We can meet at Hobbs Cafe at 6pm before heading to Harmony Karaoke Bar."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for inviting me, Isabella! I'm looking forward to it. Shall we discuss any accommodations or dietary restrictions you might have for the karaoke bar?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you Klaus, I appreciate your consideration. I don't have any dietary restrictions, but I'll make sure to confirm with Maria just in case. Looking forward to having you join us!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, Isabella! I'll see you at Hobbs Cafe at 6 pm. Looking forward to the karaoke night!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "See you tomorrow at 6pm at Hobbs Cafe, Klaus! Looking forward to our friends' night out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Take care, Isabella, see you tomorrow!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:52:10"
+  }
+}

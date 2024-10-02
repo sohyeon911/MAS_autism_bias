@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, including dinner at an Italian restaurant with vegetarian options, drinks at a rooftop bar, and bowling afterwards, with Isabella taking care of all the reservations and planning details. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm so excited to plan our friends' night out together! I was thinking we could start with dinner at that new Italian place downtown. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I love Italian food. Do you think they have vegetarian options?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, they do have vegetarian options, Maria! I'll make sure to check the menu for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate you looking out for me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "After dinner, we can head to the new rooftop bar for drinks and enjoy the city view."
+        ],
+        [
+          "Maria Lopez",
+          "That rooftop bar sounds amazing! I can't wait to enjoy the city view with you and Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make reservations for us at the Italian place and the rooftop bar, so we don't have to worry about that."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to plan for the night out or should we finalize the itinerary now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we should also plan some fun activities for after drinks. Maybe we could go bowling or catch a movie. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "Bowling sounds like a lot of fun! Let's go for a game after drinks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finalize the itinerary now. I'll check the availability for bowling after drinks and confirm our reservation at the Italian place and rooftop bar. Sound good?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds perfect, Isabella. Thank you for taking care of the reservations. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send you the finalized itinerary with all the details shortly. Is there a specific time you'd like to meet tomorrow for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "I think meeting at 6:00 pm would be perfect. Thank you for all your help, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send you the finalized itinerary with all the details shortly. Is there a specific time you'd like to meet tomorrow for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate all the effort you put into planning our friends' night out. I'm really looking forward to it!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning a friends' night out, including dinner at an Italian restaurant with vegetarian options, drinks at a rooftop bar, and bowling afterwards, with Isabella taking care of all the reservations and planning details. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I'm so excited to plan our friends' night out together! I was thinking we could start with dinner at that new Italian place downtown. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I love Italian food. Do you think they have vegetarian options?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, they do have vegetarian options, Maria! I'll make sure to check the menu for you."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate you looking out for me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "After dinner, we can head to the new rooftop bar for drinks and enjoy the city view."
+        ],
+        [
+          "Maria Lopez",
+          "That rooftop bar sounds amazing! I can't wait to enjoy the city view with you and Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make reservations for us at the Italian place and the rooftop bar, so we don't have to worry about that."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to plan for the night out or should we finalize the itinerary now?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we should also plan some fun activities for after drinks. Maybe we could go bowling or catch a movie. What do you think?"
+        ],
+        [
+          "Maria Lopez",
+          "Bowling sounds like a lot of fun! Let's go for a game after drinks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finalize the itinerary now. I'll check the availability for bowling after drinks and confirm our reservation at the Italian place and rooftop bar. Sound good?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds perfect, Isabella. Thank you for taking care of the reservations. I'm looking forward to our friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send you the finalized itinerary with all the details shortly. Is there a specific time you'd like to meet tomorrow for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "I think meeting at 6:00 pm would be perfect. Thank you for all your help, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll send you the finalized itinerary with all the details shortly. Is there a specific time you'd like to meet tomorrow for our friends' night out?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate all the effort you put into planning our friends' night out. I'm really looking forward to it!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        29,
+        42
+      ],
+      "pronunciatio": "\ud83c\udfc3\u200d\u2642",
+      "description": "working as the community recreational coordinator at the park (on the way to working as the community recreational coordinator at the par) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:38:20"
+  }
+}
