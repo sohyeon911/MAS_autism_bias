@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning for tomorrow's friends night out, Maria Lopez and Isabella Rodriguez discuss food and drink options, decorations, seating arrangements, a point of contact for guests, a designated area for gifts and belongings, arrival times, a seating chart, a backup plan, and task delegation. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, are you almost done closing up? I'm excited to plan for tomorrow's friends night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! Almost done here. I can't wait to plan for tomorrow with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Should we start by discussing the food and drink options for tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea to start with! Let's brainstorm some options that we can offer for tomorrow's friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also make a list of necessary decorations and seating arrangements?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely plan out the decorations and seating arrangements as well. Let's make sure everything is perfect for our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also designate a point of contact for the guests and create a designated area for gifts and belongings?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, that's a great idea. Let's also confirm the arrival times and create a seating chart for smooth event execution."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss a backup plan in case of any unexpected situations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely discuss a backup plan in case of any unexpected situations."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should assign specific tasks to each of us to ensure everything runs smoothly tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria. Assigning specific tasks to each of us will definitely help everything run smoothly tomorrow. Let's create a plan and delegate responsibilities."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, should we also consider creating a designated area for gifts and belongings?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, Maria. Let's make sure we cover all the details and have a smooth event tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should also create a seating chart for the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria. We should create a seating chart to ensure that the event runs smoothly."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about planning for tomorrow's friends night out, Maria Lopez and Isabella Rodriguez discuss food and drink options, decorations, seating arrangements, a point of contact for guests, a designated area for gifts and belongings, arrival times, a seating chart, a backup plan, and task delegation. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, are you almost done closing up? I'm excited to plan for tomorrow's friends night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! Almost done here. I can't wait to plan for tomorrow with you and Klaus."
+        ],
+        [
+          "Maria Lopez",
+          "Should we start by discussing the food and drink options for tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea to start with! Let's brainstorm some options that we can offer for tomorrow's friends' night out."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also make a list of necessary decorations and seating arrangements?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely plan out the decorations and seating arrangements as well. Let's make sure everything is perfect for our friends' night out!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also designate a point of contact for the guests and create a designated area for gifts and belongings?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, that's a great idea. Let's also confirm the arrival times and create a seating chart for smooth event execution."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss a backup plan in case of any unexpected situations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely discuss a backup plan in case of any unexpected situations."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should assign specific tasks to each of us to ensure everything runs smoothly tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria. Assigning specific tasks to each of us will definitely help everything run smoothly tomorrow. Let's create a plan and delegate responsibilities."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, should we also consider creating a designated area for gifts and belongings?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I agree, Maria. Let's make sure we cover all the details and have a smooth event tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you think we should also create a seating chart for the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria. We should create a seating chart to ensure that the event runs smoothly."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "enjoying a friends' night out with Isabella and Maria at Hobbs Cafe (eating dinner and spending time together) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 20:04:00"
+  }
+}
