@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "enjoying dinner with Maria and Klaus at a local restaurant (continuing to discuss potential activities and making final plans for the evening) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "working at the supply store (on the way to working at the supply stor) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        34,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6\ud83c\udf33",
+      "description": "continuing to walk around the park and enjoying the scenery before heading back home. @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 22:03:30"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        53,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about friends Isabella Rodriguez and Klaus Mueller making dinner plans and inviting Klaus to join them for a friends' night out at Hobbs Cafe, agreeing to meet at 6:00 pm. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here! How was your dinner meeting with the park staff?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, dinner meeting went well. It's always nice to catch up with the team. How are you and Maria doing?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We're doing great, Klaus! We were just deciding what to order for dinner. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear you're doing well, Isabella. Have you tried the steak here before?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "No, I haven't tried the steak here before. It sounds delicious though!"
+        ],
+        [
+          "Klaus Mueller",
+          "You should definitely try the steak here, it's one of my favorites. The chef really knows how to cook it to perfection."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll take your recommendation and order the steak tonight, Klaus. Thanks for suggesting it!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm sure you'll enjoy it, Isabella. How's everything else going with you and Maria?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything with Maria is going great, Klaus. We are actually planning a friends' night out for tomorrow at Hobbs Cafe. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella. I would love to join you and Maria for the friends' night out at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll send you the details for tomorrow's friends' night out at Hobbs Cafe. Looking forward to seeing you there, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella. I appreciate the invitation. Looking forward to the friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to reserve a table for us at Hobbs Cafe tomorrow. What time works best for you to meet up?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think meeting at 6:00 pm would be great. Thank you for reserving a table, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, 6:00 pm works for me too. Looking forward to our friends' night out at Hobbs Cafe tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited for tomorrow's friends' night out at Hobbs Cafe. It's always great catching up with friends outside of work."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        68,
+        46
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "working at the supply store (on the way to working at the supply stor) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        54,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about friends Isabella Rodriguez and Klaus Mueller making dinner plans and inviting Klaus to join them for a friends' night out at Hobbs Cafe, agreeing to meet at 6:00 pm. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here! How was your dinner meeting with the park staff?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, dinner meeting went well. It's always nice to catch up with the team. How are you and Maria doing?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We're doing great, Klaus! We were just deciding what to order for dinner. How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear you're doing well, Isabella. Have you tried the steak here before?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "No, I haven't tried the steak here before. It sounds delicious though!"
+        ],
+        [
+          "Klaus Mueller",
+          "You should definitely try the steak here, it's one of my favorites. The chef really knows how to cook it to perfection."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll take your recommendation and order the steak tonight, Klaus. Thanks for suggesting it!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm sure you'll enjoy it, Isabella. How's everything else going with you and Maria?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything with Maria is going great, Klaus. We are actually planning a friends' night out for tomorrow at Hobbs Cafe. Would you like to join us?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella. I would love to join you and Maria for the friends' night out at Hobbs Cafe tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll send you the details for tomorrow's friends' night out at Hobbs Cafe. Looking forward to seeing you there, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella. I appreciate the invitation. Looking forward to the friends' night out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to reserve a table for us at Hobbs Cafe tomorrow. What time works best for you to meet up?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think meeting at 6:00 pm would be great. Thank you for reserving a table, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, 6:00 pm works for me too. Looking forward to our friends' night out at Hobbs Cafe tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited for tomorrow's friends' night out at Hobbs Cafe. It's always great catching up with friends outside of work."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:38:20"
+  }
+}

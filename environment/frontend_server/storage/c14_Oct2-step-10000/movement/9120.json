@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfc\ud83e\uddfd",
+      "description": "closing up Hobbs Cafe and getting ready for her friends' night out (cleaning and wiping down the counter) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing and planning for tomorrow's friends night out, allocating tasks such as food and drink, decorations, seating arrangements, creating a backup plan, designating a point of contact for guests, confirming arrival times, and creating a designated area for gifts and belongings, as well as considering a seating chart for smooth event execution. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm glad you could join us for the planning session!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm excited to be here and help plan for tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate your input, Klaus. Let's start by going through the list of items we need to get for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Maria. Let's make sure we have everything covered and ready for a great evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's start by dividing the tasks among ourselves to ensure everything gets done efficiently."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll take care of picking up the food and drinks. How about you handle decorations and Isabella helps with setting up the seating arrangements?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan, Klaus. Let's finalize the details and make sure everything is set for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also create a backup plan in case of any last-minute changes or issues?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus. Let's discuss a backup plan just in case and ensure we're prepared for any unexpected situations."
+        ],
+        [
+          "Klaus Mueller",
+          "How about we also designate a point of contact for any guests who might need assistance during the event?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus. Let's designate Isabella as the point of contact since she knows the guests well and can provide the necessary assistance."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the time guests are expected to arrive tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the schedule for tomorrow and ensure everything is set for our friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we create a designated area for guests to drop off any gifts or belongings they may have with them?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely create a designated area for guests to drop off any gifts or belongings they may have with them. It will make it easier for everyone and ensure everything is organized."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also create a seating chart for the event to ensure everything runs smoothly?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing and planning for tomorrow's friends night out, allocating tasks such as food and drink, decorations, seating arrangements, creating a backup plan, designating a point of contact for guests, confirming arrival times, and creating a designated area for gifts and belongings, as well as considering a seating chart for smooth event execution. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm glad you could join us for the planning session!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm excited to be here and help plan for tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate your input, Klaus. Let's start by going through the list of items we need to get for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Maria. Let's make sure we have everything covered and ready for a great evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's start by dividing the tasks among ourselves to ensure everything gets done efficiently."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll take care of picking up the food and drinks. How about you handle decorations and Isabella helps with setting up the seating arrangements?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan, Klaus. Let's finalize the details and make sure everything is set for tomorrow's friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also create a backup plan in case of any last-minute changes or issues?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus. Let's discuss a backup plan just in case and ensure we're prepared for any unexpected situations."
+        ],
+        [
+          "Klaus Mueller",
+          "How about we also designate a point of contact for any guests who might need assistance during the event?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus. Let's designate Isabella as the point of contact since she knows the guests well and can provide the necessary assistance."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's also confirm the time guests are expected to arrive tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Let's finalize the schedule for tomorrow and ensure everything is set for our friends night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we create a designated area for guests to drop off any gifts or belongings they may have with them?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely create a designated area for guests to drop off any gifts or belongings they may have with them. It will make it easier for everyone and ensure everything is organized."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also create a seating chart for the event to ensure everything runs smoothly?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 19:50:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a short break and checking on inventory at Hobbs Cafe (checking the inventory levels of coffee beans) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "working at the supply store (checking inventory levels and making a list of items that need to be restocked) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\ud83d\uddd3\ufe0f",
+      "description": "checking his schedule and making sure he has all necessary materials for the meeting, attending the lunch meeting with the rest of the park staff, and preparing for the friends' night out with Isabella. (checking his schedule for the day) (checking his schedule for the day) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 16:23:10"
+  }
+}

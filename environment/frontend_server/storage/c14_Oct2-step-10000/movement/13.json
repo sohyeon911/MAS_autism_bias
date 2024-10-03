@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\u2615\ud83c\udf89",
+      "description": "closing up the cafe and getting ready for her friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are coordinating with Isabella for the friends night out planning session at Hobbs Cafe, making sure they have all necessary materials and a shopping list ready. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your dinner meeting with the park staff?"
+        ],
+        [
+          "Klaus Mueller",
+          "It went well, thanks for asking. How are you doing? Are you still busy with work?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm doing well, just finishing up some inventory checks at the store. We are meeting at Hobbs Cafe at 7pm to plan tomorrow's friends night out, remember?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I remember. Let's finish up here and head to Hobbs Cafe to finalize the plans."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we go over to Hobbs Cafe now to start planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria. Let's head over to Hobbs Cafe now and start planning."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we bring Isabella in on the planning as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's include Isabella in the planning. She has great ideas and it's important to make sure she feels included."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we text Isabella to let her know to meet us at Hobbs Cafe for the planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's text Isabella to let her know to meet us at Hobbs Cafe for the planning."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to let her know to meet us at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's inform Isabella about the time we'll meet at Hobbs Cafe, so she can plan accordingly."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to let her know to meet us at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure we have all the necessary materials and information ready for the planning session with Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we also have a list of things we need from the store for the friends night out. I'll send you a quick message with the items before we head to Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for coordinating everything, Maria. Let's make sure we have everything we need for the planning session with Isabella."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are coordinating with Isabella for the friends night out planning session at Hobbs Cafe, making sure they have all necessary materials and a shopping list ready. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how was your dinner meeting with the park staff?"
+        ],
+        [
+          "Klaus Mueller",
+          "It went well, thanks for asking. How are you doing? Are you still busy with work?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm doing well, just finishing up some inventory checks at the store. We are meeting at Hobbs Cafe at 7pm to plan tomorrow's friends night out, remember?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I remember. Let's finish up here and head to Hobbs Cafe to finalize the plans."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we go over to Hobbs Cafe now to start planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria. Let's head over to Hobbs Cafe now and start planning."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we bring Isabella in on the planning as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's include Isabella in the planning. She has great ideas and it's important to make sure she feels included."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we text Isabella to let her know to meet us at Hobbs Cafe for the planning?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's text Isabella to let her know to meet us at Hobbs Cafe for the planning."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to let her know to meet us at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's inform Isabella about the time we'll meet at Hobbs Cafe, so she can plan accordingly."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to let her know to meet us at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure we have all the necessary materials and information ready for the planning session with Isabella."
+        ],
+        [
+          "Maria Lopez",
+          "Let's make sure we also have a list of things we need from the store for the friends night out. I'll send you a quick message with the items before we head to Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for coordinating everything, Maria. Let's make sure we have everything we need for the planning session with Isabella."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:32:10"
+  }
+}

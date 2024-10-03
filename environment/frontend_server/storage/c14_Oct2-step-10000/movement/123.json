@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\u2615\ud83c\udf89",
+      "description": "closing up the cafe and getting ready for her friends' night out @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        56
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "working at the supply store (on the way to working at the supply stor) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        37
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "attending a dinner meeting with the park staff (on the way to driving to the restaurant) (driving to the restaurant) @ the Ville:The Rose and Crown Pub:pub:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:50:30"
+  }
+}

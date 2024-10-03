@@ -1,0 +1,140 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are chatting about meeting up for a friends' night out at the cafe, discussing the closing up of the cafe, their excitement for the evening, trying out the recommended steak, and heading over to their reserved table for a fun evening. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you made it for our friends' night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I wouldn't miss it for the world. How's everything going with closing up the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything is going smoothly, just finishing up cleaning the counter. Are you having a good time with Maria?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's been great catching up with Maria. How about you? Excited for our night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to having a great time with both of you tonight at the cafe. Are you ready for some delicious food and drinks?"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to try the steak you recommended earlier. It sounds delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to try the steak! Let's head over to your reserved table and I'll make sure everything is set up for us."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go over to your table and get ready for a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's head over to your table and get ready for a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's head over to your table and get ready for a fun evening!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        64,
+        52
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "working at the supply store (checking inventory levels and making a list of items that need to be restocked) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are chatting about meeting up for a friends' night out at the cafe, discussing the closing up of the cafe, their excitement for the evening, trying out the recommended steak, and heading over to their reserved table for a fun evening. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I'm glad you made it for our friends' night out."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I wouldn't miss it for the world. How's everything going with closing up the cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Everything is going smoothly, just finishing up cleaning the counter. Are you having a good time with Maria?"
+        ],
+        [
+          "Klaus Mueller",
+          "It's been great catching up with Maria. How about you? Excited for our night out?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to having a great time with both of you tonight at the cafe. Are you ready for some delicious food and drinks?"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to try the steak you recommended earlier. It sounds delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to try the steak! Let's head over to your reserved table and I'll make sure everything is set up for us."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's go over to your table and get ready for a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's head over to your table and get ready for a fun evening!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate the effort you put into making this night special for us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's head over to your table and get ready for a fun evening!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 15, 2023, 18:55:10"
+  }
+}
